@@ -1,0 +1,95 @@
+[   663.445] (WW) Failed to open protocol names file lib/xorg/protocol.txt
+[   663.447] 
+X.Org X Server 1.20.11
+X Protocol Version 11, Revision 0
+[   663.451] Build Operating System: Linux Archlinux
+[   663.452] Current Operating System: Linux dungvt 5.12.12-arch1-1 #1 SMP PREEMPT Fri, 18 Jun 2021 21:59:22 +0000 x86_64
+[   663.452] Kernel command line: BOOT_IMAGE=/vmlinuz-linux root=UUID=81f449c7-b840-437c-a518-4f384f37f693 rw loglevel=3 quiet
+[   663.455] Build Date: 13 April 2021  03:12:10PM
+[   663.456]  
+[   663.457] Current version of pixman: 0.40.0
+[   663.459] 	Before reporting problems, check http://wiki.x.org
+	to make sure that you have the latest version.
+[   663.459] Markers: (--) probed, (**) from config file, (==) default setting,
+	(++) from command line, (!!) notice, (II) informational,
+	(WW) warning, (EE) error, (NI) not implemented, (??) unknown.
+[   663.462] (==) Log file: "/home/dungvt/.local/share/xorg/Xorg.0.log", Time: Fri Jun 25 05:56:47 2021
+[   663.466] (++) Using config file: "/etc/X11/xorg.conf"
+[   663.467] (==) Using config directory: "/etc/X11/xorg.conf.d"
+[   663.469] (==) Using system config directory "/usr/share/X11/xorg.conf.d"
+[   663.470] (==) ServerLayout "Layout0"
+[   663.470] (**) |-->Screen "iGPU" (0)
+[   663.470] (**) |   |-->Monitor "<default monitor>"
+[   663.471] (**) |   |-->Device "iGPU"
+[   663.471] (**) |   |-->GPUDevice "dGPU"
+[   663.471] (**) |   |-->GPUDevice "Device0"
+[   663.471] (==) No monitor specified for screen "iGPU".
+	Using a default monitor configuration.
+[   663.471] (==) Automatically adding devices
+[   663.471] (==) Automatically enabling devices
+[   663.471] (==) Automatically adding GPU devices
+[   663.471] (==) Automatically binding GPU devices
+[   663.471] (==) Max clients allowed: 256, resource mask: 0x1fffff
+[   663.472] (WW) The directory "/usr/share/fonts/misc" does not exist.
+[   663.472] 	Entry deleted from font path.
+[   663.473] (WW) The directory "/usr/share/fonts/OTF" does not exist.
+[   663.473] 	Entry deleted from font path.
+[   663.473] (WW) The directory "/usr/share/fonts/Type1" does not exist.
+[   663.473] 	Entry deleted from font path.
+[   663.477] (==) FontPath set to:
+	/usr/share/fonts/TTF,
+	/usr/share/fonts/100dpi,
+	/usr/share/fonts/75dpi
+[   663.477] (==) ModulePath set to "/usr/lib/xorg/modules"
+[   663.477] (II) The server relies on udev to provide the list of input devices.
+	If no devices become available, reconfigure udev or disable AutoAddDevices.
+[   663.477] (II) Module ABI versions:
+[   663.477] 	X.Org ANSI C Emulation: 0.4
+[   663.477] 	X.Org Video Driver: 24.1
+[   663.477] 	X.Org XInput driver : 24.1
+[   663.477] 	X.Org Server Extension : 10.0
+[   663.478] (II) systemd-logind: took control of session /org/freedesktop/login1/session/_31
+[   663.479] (II) xfree86: Adding drm device (/dev/dri/card0)
+[   663.479] (II) systemd-logind: got fd for /dev/dri/card0 226:0 fd 10 paused 0
+[   663.479] (II) xfree86: Adding drm device (/dev/dri/card1)
+[   663.480] (II) systemd-logind: got fd for /dev/dri/card1 226:1 fd 11 paused 0
+[   663.480] (**) OutputClass "nvidia" ModulePath extended to "/usr/lib/nvidia/xorg,/usr/lib/xorg/modules,/usr/lib/xorg/modules"
+[   663.480] (**) OutputClass "dGPU" ModulePath extended to "/usr/lib/nvidia/xorg,/usr/lib/xorg/modules,/usr/lib/nvidia/xorg,/usr/lib/xorg/modules,/usr/lib/xorg/modules"
+[   663.480] (**) OutputClass "nvidia" ModulePath extended to "/usr/lib/nvidia/xorg,/usr/lib/xorg/modules,/usr/lib/nvidia/xorg,/usr/lib/xorg/modules,/usr/lib/nvidia/xorg,/usr/lib/xorg/modules,/usr/lib/xorg/modules"
+[   663.480] (**) OutputClass "nvidia" ModulePath extended to "/usr/lib/nvidia/xorg,/usr/lib/xorg/modules,/usr/lib/nvidia/xorg,/usr/lib/xorg/modules,/usr/lib/nvidia/xorg,/usr/lib/xorg/modules,/usr/lib/nvidia/xorg,/usr/lib/xorg/modules,/usr/lib/xorg/modules"
+[   663.480] (**) OutputClass "dGPU" setting /dev/dri/card0 as PrimaryGPU
+[   663.481] (--) PCI: (0@0:2:0) 8086:3e9b:1043:18fe rev 0, Mem @ 0xa2000000/16777216, 0x80000000/268435456, I/O @ 0x00005000/64, BIOS @ 0x????????/131072
+[   663.481] (--) PCI:*(1@0:0:0) 10de:1c8c:1043:18fe rev 161, Mem @ 0xa3000000/16777216, 0x90000000/268435456, 0xa0000000/33554432, I/O @ 0x00004000/128, BIOS @ 0x????????/524288
+[   663.481] (WW) Open ACPI failed (/var/run/acpid.socket) (No such file or directory)
+[   663.481] (II) LoadModule: "glx"
+[   663.483] (II) Loading /usr/lib/xorg/modules/extensions/libglx.so
+[   663.504] (II) Module glx: vendor="X.Org Foundation"
+[   663.504] 	compiled for 1.20.11, module version = 1.0.0
+[   663.504] 	ABI class: X.Org Server Extension, version 10.0
+[   663.504] (II) LoadModule: "modesetting"
+[   663.505] (II) Loading /usr/lib/xorg/modules/drivers/modesetting_drv.so
+[   663.508] (II) Module modesetting: vendor="X.Org Foundation"
+[   663.508] 	compiled for 1.20.11, module version = 1.20.11
+[   663.508] 	Module class: X.Org Video Driver
+[   663.508] 	ABI class: X.Org Video Driver, version 24.1
+[   663.508] (II) LoadModule: "nvidia"
+[   663.508] (II) Loading /usr/lib/xorg/modules/drivers/nvidia_drv.so
+[   663.515] (II) Module nvidia: vendor="NVIDIA Corporation"
+[   663.515] 	compiled for 1.6.99.901, module version = 1.0.0
+[   663.515] 	Module class: X.Org Video Driver
+[   663.516] (II) modesetting: Driver for Modesetting Kernel Drivers: kms
+[   663.516] (II) NVIDIA dlloader X Driver  465.31  Thu May 13 22:19:15 UTC 2021
+[   663.516] (II) NVIDIA Unified Driver for all Supported NVIDIA GPUs
+[   663.517] (EE) 
+Fatal server error:
+[   663.517] (EE) parse_vt_settings: Cannot open /dev/tty0 (Permission denied)
+[   663.517] (EE) 
+[   663.517] (EE) 
+Please consult the The X.Org Foundation support 
+	 at http://wiki.x.org
+ for help. 
+[   663.517] (EE) Please also check the log file at "/home/dungvt/.local/share/xorg/Xorg.0.log" for additional information.
+[   663.517] (EE) 
+[   663.517] (WW) xf86CloseConsole: KDSETMODE failed: Bad file descriptor
+[   663.517] (WW) xf86CloseConsole: VT_GETMODE failed: Bad file descriptor
+[   663.564] (EE) Server terminated with error (1). Closing log file.
