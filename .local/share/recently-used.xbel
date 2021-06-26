@@ -13,4 +13,34 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/dungvt/Downloads/file_example_PPT_1MB.ppt" added="2021-06-25T03:10:07.537631Z" modified="2021-06-25T03:10:07.537643Z" visited="2021-06-25T03:10:07.537632Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.ms-powerpoint"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-06-25T03:10:07.537637Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Documents/The%20Runtime%20of%20Learning.pptx" added="2021-06-25T04:05:54.684432Z" modified="2021-06-25T04:05:54.684444Z" visited="2021-06-25T04:05:54.684433Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="wpp" exec="&apos;wpp %u&apos;" modified="2021-06-25T04:05:54.684438Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Downloads/IMG_20210624_164301_551.jpg" added="2021-06-26T15:10:04.429467Z" modified="2021-06-26T15:10:04.429482Z" visited="2021-06-26T15:10:04.429469Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-06-26T15:10:04.429474Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>
