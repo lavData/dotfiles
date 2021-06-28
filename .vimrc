@@ -16,31 +16,31 @@ set incsearch
 set wrap
 set showmode
 set clipboard=unnamedplus
+set noignorecase
+source ~/.vim/autoload/vim-prettier/plugin/prettier.vim
+source ~/.vim/closetag.vim/plugin/closetag.vim
 execute pathogen#infect()
 filetype plugin on
 set omnifunc=syntaxcomplete#Complete
 packloadall
 call plug#begin('~/.vim/autoload')
 
-
 Plug 'Chiel92/vim-autoformat'
 Plug 'arcticicestudio/nord-vim'
 Plug 'frazrepo/vim-rainbow'
+Plug 'dense-analysis/ale'
 Plug 'jcherven/jummidark.vim'
 Plug 'tpope/vim-commentary'
-Plug 'sheerun/vim-polyglot'
 Plug 'prettier/vim-prettier', {'do': 'yarn install'}
-Plug 'tpope/vim-fugitive'
 Plug 'Raimondi/delimitMate'
+Plug 'gregsexton/matchtag'
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
-Plug 'tpope/vim-rhubarb'
-Plug 'tomasr/molokai'
+Plug 'sirver/ultisnips'
 Plug 'voldikss/vim-floaterm'
-Plug 'junegunn/seoul256.vim'
+
 
 Plug 'ryanoasis/vim-devicons'
-
 " On-demand loading
 Plug 'scrooloose/nerdtree', { 'on':  'NERDTreeToggle' }
 Plug 'tpope/vim-fireplace', { 'for': 'clojure' }
@@ -57,7 +57,9 @@ Plug 'manasthakur/vim-commentor'
 Plug 'fatih/vim-go', { 'tag': '*' }
 
 " Plugin options
-Plug 'nsf/gocode', { 'tag': 'v.20150303', 'rtp': 'vim' }
+
+"bracey
+Plug 'turbio/bracey.vim'
 
 " Plugin outside ~/.vim/plugged with post-update hook
 Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
@@ -75,32 +77,54 @@ Plug 'vundlevim/vundle.vim'
 
 Plug 'tpope/vim-fugitive'
 
-Plug 'git://git.wincent.com/command-t.git'
 
-Plug 'rstacruz/sparkup', {'rtp': 'vim/'}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 call plug#end()
 
-set nocompatible              " be iMproved, required
-"filetype off                  " required
 
-" set the runtime path to include Vundle and initialize
-set rtp+=~/.vim/bundle/Vundle.vim
-filetype plugin indent on    " required
 
+
+
+
+" filenames like *.xml, *.html, *.xhtml, ...
+" These are the file extensions where this plugin is enabled.
 "
-let g:closetag_filenames = '*.html,*.xhtml,*.phtml,'
+let g:closetag_filenames = '*.html,*.xhtml,*.phtml'
 
 " filenames like *.xml, *.xhtml, ...
 " This will make the list of non-closing tags self-closing in the specified files.
 "
-let g:closetag_xhtml_filenames = '*.xhtml,*.jsx,*.js'
+let g:closetag_xhtml_filenames = '*.xhtml,*.jsx'
 
+" filetypes like xml, html, xhtml, ...
+" These are the file types where this plugin is enabled.
+"
+let g:closetag_filetypes = 'html,xhtml,phtml'
 
-let g:closetag_filetypes = 'html,xhtml,phtml,js,jsx'
-
-
-let g:closetag_xhtml_filetypes = 'xhtml,jsx,js'
+" filetypes like xml, xhtml, ...
+" This will make the list of non-closing tags self-closing in the specified files.
+"
+let g:closetag_xhtml_filetypes = 'xhtml,jsx'
 
 " integer value [0|1]
 " This will make the list of non-closing tags case-sensitive (e.g. `<Link>` will be closed while `<link>` won't.)
@@ -113,6 +137,8 @@ let g:closetag_emptyTags_caseSensitive = 1
 let g:closetag_regions = {
     \ 'typescript.tsx': 'jsxRegion,tsxRegion',
     \ 'javascript.jsx': 'jsxRegion',
+    \ 'typescriptreact': 'jsxRegion,tsxRegion',
+    \ 'javascriptreact': 'jsxRegion',
     \ }
 
 " Shortcut for closing tags, default is '>'
@@ -122,10 +148,55 @@ let g:closetag_shortcut = '>'
 " Add > at current position without closing the current tag, default is ''
 "
 let g:closetag_close_shortcut = '<leader>>'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 let g:mta_use_matchparen_group = 1
 let g:mta_filetypes = {'html': 1,'xhtml': 1,'xml' : 1,'js': 1,'jsx': 1}
 nnoremap <leader>% :MtaJumpToOtherTag<cr>
 set completeopt-=preview
+
 let g:ycm_add_preview_to_completeopt = 0
 let g:prettier#autoformat = 1
 let g:prettier#autoformat_require_pragma = 0
@@ -367,7 +438,6 @@ let g:jedi#force_py_version = 3
 
 "Indent display
 let g:indent_guides_enable_on_vim_startup = 1
-
 
 
 colorscheme nord
