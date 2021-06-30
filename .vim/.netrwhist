@@ -1,5 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =8
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/home/dungvt/.config/polybar/cuts'
 let g:netrw_dirhist_8='/home/dungvt/.config'
 let g:netrw_dirhist_7='/home/dungvt/.config/polybar'
 let g:netrw_dirhist_6='/home/dungvt/.config'

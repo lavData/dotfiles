@@ -7,6 +7,8 @@ export XMODIFIERS=@im=ibus
 export QT_IM_MODULE=ibus
 
 xset r rate 200 80
+#exec ~/.scripts/startup_background.sh
 exec i3
+
 
 

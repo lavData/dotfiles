@@ -9,7 +9,6 @@ set $green               #fab12a
 set $yellow              #d7cf21
 set $orange              #fe8019
 set $red                 #cc241d
-set $bg                  ~/Desktop/pq1.png
 #[class="urxvt" title="VIM"]
 # No title
 new_window none
@@ -292,8 +291,8 @@ bindsym $mod+p workspace next
 # Poly bar
 
 # Screen hot switch
-set $beside ~/.scripts/beside.sh
-set $hdmi   ~/.scripts/hdmi.sh
+set $beside sh ~/.scripts/beside.sh
+set $hdmi   sh ~/.scripts/hdmi.sh
 #set $native ~/.scripts/native.sh
 # exec_always $hdmi
 exec --no-startup-id ~/.scripts/hotswitch.sh
@@ -305,7 +304,8 @@ bindsym $mod+F12 exec $laptoponly
 
 # Background
 #exec --no-startup-id feh --bg-fill $bg
-exec --no-startup-id ~/.scripts/startup_background.sh
+set $background sh ~/.scripts/startup_background.sh
+exec --no-startup-id $background
 
 # Auto start
 

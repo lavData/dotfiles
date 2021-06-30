@@ -113,4 +113,24 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/dungvt/Desktop/mp3-4160316_960_720.jpg" added="2021-06-28T21:59:01.116643Z" modified="2021-06-28T21:59:25.616523Z" visited="2021-06-28T21:59:01.116645Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-06-28T21:59:25.616518Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/19120202.sql" added="2021-06-29T16:00:07.282851Z" modified="2021-06-29T16:00:07.282857Z" visited="2021-06-29T16:00:07.282852Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/sql"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-06-29T16:00:07.282854Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>
