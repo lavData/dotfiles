@@ -39585,3 +39585,67 @@ See https://wayland.freedesktop.org/libinput/doc/1.18.0/touchpad-jumping-cursors
 [  9939.379] (II) modeset(0): Printing DDC gathered Modelines:
 [  9939.379] (II) modeset(0): Modeline "1920x1080"x0.0  139.77  1920 1968 2000 2080  1080 1083 1089 1120 -hsync -vsync (67.2 kHz eP)
 [  9939.379] (II) modeset(0): Modeline "1920x1080"x0.0  111.82  1920 1968 2000 2080  1080 1083 1089 1120 -hsync -vsync (53.8 kHz e)
+[  9940.391] (II) modeset(0): EDID vendor "NCP", prod id 41
+[  9940.391] (II) modeset(0): Printing DDC gathered Modelines:
+[  9940.391] (II) modeset(0): Modeline "1920x1080"x0.0  139.77  1920 1968 2000 2080  1080 1083 1089 1120 -hsync -vsync (67.2 kHz eP)
+[  9940.391] (II) modeset(0): Modeline "1920x1080"x0.0  111.82  1920 1968 2000 2080  1080 1083 1089 1120 -hsync -vsync (53.8 kHz e)
+[  9941.403] (II) modeset(0): EDID vendor "NCP", prod id 41
+[  9941.403] (II) modeset(0): Printing DDC gathered Modelines:
+[  9941.403] (II) modeset(0): Modeline "1920x1080"x0.0  139.77  1920 1968 2000 2080  1080 1083 1089 1120 -hsync -vsync (67.2 kHz eP)
+[  9941.403] (II) modeset(0): Modeline "1920x1080"x0.0  111.82  1920 1968 2000 2080  1080 1083 1089 1120 -hsync -vsync (53.8 kHz e)
+[  9942.416] (II) modeset(0): EDID vendor "NCP", prod id 41
+[  9942.416] (II) modeset(0): Printing DDC gathered Modelines:
+[  9942.416] (II) modeset(0): Modeline "1920x1080"x0.0  139.77  1920 1968 2000 2080  1080 1083 1089 1120 -hsync -vsync (67.2 kHz eP)
+[  9942.416] (II) modeset(0): Modeline "1920x1080"x0.0  111.82  1920 1968 2000 2080  1080 1083 1089 1120 -hsync -vsync (53.8 kHz e)
+[  9943.428] (II) modeset(0): EDID vendor "NCP", prod id 41
+[  9943.428] (II) modeset(0): Printing DDC gathered Modelines:
+[  9943.428] (II) modeset(0): Modeline "1920x1080"x0.0  139.77  1920 1968 2000 2080  1080 1083 1089 1120 -hsync -vsync (67.2 kHz eP)
+[  9943.428] (II) modeset(0): Modeline "1920x1080"x0.0  111.82  1920 1968 2000 2080  1080 1083 1089 1120 -hsync -vsync (53.8 kHz e)
+[  9944.440] (II) modeset(0): EDID vendor "NCP", prod id 41
+[  9944.440] (II) modeset(0): Printing DDC gathered Modelines:
+[  9944.440] (II) modeset(0): Modeline "1920x1080"x0.0  139.77  1920 1968 2000 2080  1080 1083 1089 1120 -hsync -vsync (67.2 kHz eP)
+[  9944.440] (II) modeset(0): Modeline "1920x1080"x0.0  111.82  1920 1968 2000 2080  1080 1083 1089 1120 -hsync -vsync (53.8 kHz e)
+[  9945.452] (II) modeset(0): EDID vendor "NCP", prod id 41
+[  9945.452] (II) modeset(0): Printing DDC gathered Modelines:
+[  9945.452] (II) modeset(0): Modeline "1920x1080"x0.0  139.77  1920 1968 2000 2080  1080 1083 1089 1120 -hsync -vsync (67.2 kHz eP)
+[  9945.452] (II) modeset(0): Modeline "1920x1080"x0.0  111.82  1920 1968 2000 2080  1080 1083 1089 1120 -hsync -vsync (53.8 kHz e)
+[  9946.464] (II) modeset(0): EDID vendor "NCP", prod id 41
+[  9946.464] (II) modeset(0): Printing DDC gathered Modelines:
+[  9946.464] (II) modeset(0): Modeline "1920x1080"x0.0  139.77  1920 1968 2000 2080  1080 1083 1089 1120 -hsync -vsync (67.2 kHz eP)
+[  9946.464] (II) modeset(0): Modeline "1920x1080"x0.0  111.82  1920 1968 2000 2080  1080 1083 1089 1120 -hsync -vsync (53.8 kHz e)
+[  9947.476] (II) modeset(0): EDID vendor "NCP", prod id 41
+[  9947.476] (II) modeset(0): Printing DDC gathered Modelines:
+[  9947.476] (II) modeset(0): Modeline "1920x1080"x0.0  139.77  1920 1968 2000 2080  1080 1083 1089 1120 -hsync -vsync (67.2 kHz eP)
+[  9947.476] (II) modeset(0): Modeline "1920x1080"x0.0  111.82  1920 1968 2000 2080  1080 1083 1089 1120 -hsync -vsync (53.8 kHz e)
+[  9948.488] (II) modeset(0): EDID vendor "NCP", prod id 41
+[  9948.488] (II) modeset(0): Printing DDC gathered Modelines:
+[  9948.488] (II) modeset(0): Modeline "1920x1080"x0.0  139.77  1920 1968 2000 2080  1080 1083 1089 1120 -hsync -vsync (67.2 kHz eP)
+[  9948.488] (II) modeset(0): Modeline "1920x1080"x0.0  111.82  1920 1968 2000 2080  1080 1083 1089 1120 -hsync -vsync (53.8 kHz e)
+[  9949.500] (II) modeset(0): EDID vendor "NCP", prod id 41
+[  9949.500] (II) modeset(0): Printing DDC gathered Modelines:
+[  9949.500] (II) modeset(0): Modeline "1920x1080"x0.0  139.77  1920 1968 2000 2080  1080 1083 1089 1120 -hsync -vsync (67.2 kHz eP)
+[  9949.500] (II) modeset(0): Modeline "1920x1080"x0.0  111.82  1920 1968 2000 2080  1080 1083 1089 1120 -hsync -vsync (53.8 kHz e)
+[  9950.513] (II) modeset(0): EDID vendor "NCP", prod id 41
+[  9950.513] (II) modeset(0): Printing DDC gathered Modelines:
+[  9950.513] (II) modeset(0): Modeline "1920x1080"x0.0  139.77  1920 1968 2000 2080  1080 1083 1089 1120 -hsync -vsync (67.2 kHz eP)
+[  9950.513] (II) modeset(0): Modeline "1920x1080"x0.0  111.82  1920 1968 2000 2080  1080 1083 1089 1120 -hsync -vsync (53.8 kHz e)
+[  9951.525] (II) modeset(0): EDID vendor "NCP", prod id 41
+[  9951.525] (II) modeset(0): Printing DDC gathered Modelines:
+[  9951.525] (II) modeset(0): Modeline "1920x1080"x0.0  139.77  1920 1968 2000 2080  1080 1083 1089 1120 -hsync -vsync (67.2 kHz eP)
+[  9951.525] (II) modeset(0): Modeline "1920x1080"x0.0  111.82  1920 1968 2000 2080  1080 1083 1089 1120 -hsync -vsync (53.8 kHz e)
+[  9952.536] (II) modeset(0): EDID vendor "NCP", prod id 41
+[  9952.537] (II) modeset(0): Printing DDC gathered Modelines:
+[  9952.537] (II) modeset(0): Modeline "1920x1080"x0.0  139.77  1920 1968 2000 2080  1080 1083 1089 1120 -hsync -vsync (67.2 kHz eP)
+[  9952.537] (II) modeset(0): Modeline "1920x1080"x0.0  111.82  1920 1968 2000 2080  1080 1083 1089 1120 -hsync -vsync (53.8 kHz e)
+[  9953.548] (II) modeset(0): EDID vendor "NCP", prod id 41
+[  9953.548] (II) modeset(0): Printing DDC gathered Modelines:
+[  9953.548] (II) modeset(0): Modeline "1920x1080"x0.0  139.77  1920 1968 2000 2080  1080 1083 1089 1120 -hsync -vsync (67.2 kHz eP)
+[  9953.548] (II) modeset(0): Modeline "1920x1080"x0.0  111.82  1920 1968 2000 2080  1080 1083 1089 1120 -hsync -vsync (53.8 kHz e)
+[  9954.560] (II) modeset(0): EDID vendor "NCP", prod id 41
+[  9954.560] (II) modeset(0): Printing DDC gathered Modelines:
+[  9954.560] (II) modeset(0): Modeline "1920x1080"x0.0  139.77  1920 1968 2000 2080  1080 1083 1089 1120 -hsync -vsync (67.2 kHz eP)
+[  9954.560] (II) modeset(0): Modeline "1920x1080"x0.0  111.82  1920 1968 2000 2080  1080 1083 1089 1120 -hsync -vsync (53.8 kHz e)
+[  9955.572] (II) modeset(0): EDID vendor "NCP", prod id 41
+[  9955.572] (II) modeset(0): Printing DDC gathered Modelines:
+[  9955.572] (II) modeset(0): Modeline "1920x1080"x0.0  139.77  1920 1968 2000 2080  1080 1083 1089 1120 -hsync -vsync (67.2 kHz eP)
+[  9955.572] (II) modeset(0): Modeline "1920x1080"x0.0  111.82  1920 1968 2000 2080  1080 1083 1089 1120 -hsync -vsync (53.8 kHz e)
