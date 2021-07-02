@@ -13,7 +13,7 @@ then
 	brightness=80%
 else
 	bgr=$DARKNESS_BACKGROUND
-	brightness=30%
+	brightness=10%
 fi
 feh --bg-fill $bgr
 brightnessctl s $brightness

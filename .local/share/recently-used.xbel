@@ -133,4 +133,14 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/dungvt/Desktop/dailyschedule.xlsx" added="2021-07-01T15:19:02.215744Z" modified="2021-07-01T15:19:02.215748Z" visited="2021-07-01T15:19:02.215745Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/wps-office.xlsx"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-07-01T15:19:02.215747Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>
