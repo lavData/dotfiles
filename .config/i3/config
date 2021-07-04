@@ -144,14 +144,12 @@ assign [class="Brave"] $ws1
 assign [class="subl"] $ws2
 assign [class="vim"] $ws2
 assign [class="TelegramDesktop"] $w8
-assign [class="Spotify" class="spotify"] $ws3
-for_window [class="Spotify"] move to workspace $ws3
 assign [class="zoom"] $ws4
 assign [class="wpspdf"] $ws6
 assign [class="calibre"] $ws5
 assign [title="Trello$"] $ws8
 assign [title="Microsoft Teams$"] $ws4
-assign [title="WPS PDF$"] $ws6
+assign [title="WPS PDF$"] $ws3
 assign [title="Discord$"] $ws4
 for_window [class="vim"] move to workspace $ws2
 for_window [title="calcurse"] move to workspace $ws8

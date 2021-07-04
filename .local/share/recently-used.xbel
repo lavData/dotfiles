@@ -143,4 +143,34 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/dungvt/Desktop/LOC_sample_submission.csv.zip" added="2021-07-03T08:34:36.211447Z" modified="2021-07-03T08:34:36.211451Z" visited="2021-07-03T08:34:36.211447Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-07-03T08:34:36.211449Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Desktop/kaggle.json" added="2021-07-03T08:37:28.884508Z" modified="2021-07-03T08:40:52.162985Z" visited="2021-07-03T08:37:28.884508Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/json"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-07-03T08:40:52.162983Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Desktop/blocksite_export_07-04-2021.csv" added="2021-07-03T17:38:56.236026Z" modified="2021-07-03T17:38:56.236029Z" visited="2021-07-03T17:38:56.236026Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-07-03T17:38:56.236027Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>
