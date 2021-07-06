@@ -1,4 +1,4 @@
-set runtimepath+=~/.vim_runtime
+set runtimepath+=~/.vim_runtime, ~/.vim, ~/.vim/autoload
 
 set nu
 set relativenumber
@@ -23,7 +23,7 @@ execute pathogen#infect()
 filetype plugin on
 set omnifunc=syntaxcomplete#Complete
 packloadall
-call plug#begin('~/.vim/autoload')
+call plug#begin('~/.config/nvim/autoload')
 
 Plug 'Chiel92/vim-autoformat'
 Plug 'arcticicestudio/nord-vim'

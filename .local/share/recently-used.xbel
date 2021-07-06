@@ -173,4 +173,34 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///tmp/mozilla_dungvt0/201489301_1115804588910394_2447224471647129962_n.jpg" added="2021-07-04T09:10:43.702794Z" modified="2021-07-04T09:12:26.524436Z" visited="2021-07-04T09:10:43.702795Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-07-04T09:12:26.524431Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Desktop/COURSES.docx" added="2021-07-04T13:33:56.341566Z" modified="2021-07-04T13:34:05.635761Z" visited="2021-07-04T13:33:56.341566Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/wps-office.docx"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-07-04T13:34:05.635748Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Desktop/github-recovery-codes.txt" added="2021-07-06T08:45:34.793724Z" modified="2021-07-06T08:45:34.793735Z" visited="2021-07-06T08:45:34.793726Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-07-06T08:45:34.793729Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>
