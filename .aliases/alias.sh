@@ -1,5 +1,5 @@
 alias zshrc="nvim ~/.zshrc"
-alias vimrc="nvim ~/.vimrc"
+alias vimrc="nvim ~/.config/nvim/init.vim"
 alias tn="thunar"
 alias py3="python3"
 alias Coding="cd ${Coding}"

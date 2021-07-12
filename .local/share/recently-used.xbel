@@ -203,4 +203,155 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/dungvt/Documents/Blog.docx" added="2021-07-06T13:35:14.007138Z" modified="2021-07-06T13:35:14.007148Z" visited="2021-07-06T13:35:14.007140Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="wps" exec="&apos;wps %u&apos;" modified="2021-07-06T13:35:14.007143Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/a.cpp" added="2021-07-07T15:02:16.956711Z" modified="2021-07-07T15:02:16.956722Z" visited="2021-07-07T15:02:16.956713Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;subl %u&apos;" modified="2021-07-07T15:02:16.956715Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Desktop/%5BFsoft%20AI%20Residency%5D%20Maths-Syllabus_07+08.2021.pdf" added="2021-07-07T20:00:18.135280Z" modified="2021-07-07T20:00:18.135292Z" visited="2021-07-07T20:00:18.135281Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-07-07T20:00:18.135286Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Downloads/meow.jpg" added="2021-07-08T08:07:40.780291Z" modified="2021-07-10T21:04:02.142061Z" visited="2021-07-08T08:07:40.780295Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-07-10T21:04:02.142050Z" count="7"/>
+          <bookmark:application name="electron" exec="&apos;electron %u&apos;" modified="2021-07-09T08:47:28.105794Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Downloads/206029658_230042785602786_2355625188532816739_n.png" added="2021-07-08T17:06:30.658776Z" modified="2021-07-08T17:10:57.945372Z" visited="2021-07-08T17:06:30.658778Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-07-08T17:10:57.945367Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_dungvt0/toan-to-hop_le-van-luyen_chuong-5_cay%20-%20%5Bcuuduongthancong.com%5D.pdf" added="2021-07-09T12:47:48.663878Z" modified="2021-07-09T12:47:48.663887Z" visited="2021-07-09T12:47:48.663879Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-07-09T12:47:48.663882Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_dungvt0/CHUY%C3%8AN%20%C4%90%E1%BB%80%20QUY%20N%E1%BA%A0P%20TRONG%20H%C3%8CNH%20H%E1%BB%8CC%203.pdf" added="2021-07-09T13:03:15.038798Z" modified="2021-07-09T13:03:15.038868Z" visited="2021-07-09T13:03:15.038806Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-07-09T13:03:15.038831Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Downloads/meow1.jpg" added="2021-07-09T16:52:34.461410Z" modified="2021-07-09T17:50:12.121284Z" visited="2021-07-09T16:52:34.461413Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-07-09T17:50:12.121274Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Downloads/dog1.jpg" added="2021-07-09T16:57:24.581663Z" modified="2021-07-09T16:57:31.517738Z" visited="2021-07-09T16:57:24.581666Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-07-09T16:57:31.517732Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Downloads/duck1.jpg" added="2021-07-09T16:59:21.793064Z" modified="2021-07-10T21:04:13.926125Z" visited="2021-07-09T16:59:21.793069Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-07-10T21:04:13.926123Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Downloads/hehe.jpg" added="2021-07-09T17:01:23.420774Z" modified="2021-07-09T17:01:28.891297Z" visited="2021-07-09T17:01:23.420779Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-07-09T17:01:28.891290Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_dungvt0/348-Article%20Text-606-1-10-20200728.pdf" added="2021-07-09T17:48:56.872587Z" modified="2021-07-09T17:48:56.872598Z" visited="2021-07-09T17:48:56.872589Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-07-09T17:48:56.872593Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Downloads/meow2.jpg" added="2021-07-10T05:50:54.945880Z" modified="2021-07-10T21:03:54.485379Z" visited="2021-07-10T05:50:54.945883Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-07-10T21:03:54.485366Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Downloads/excuse.jpg" added="2021-07-10T05:54:29.727881Z" modified="2021-07-10T13:03:53.611405Z" visited="2021-07-10T05:54:29.727884Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-07-10T13:03:53.611400Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Downloads/ava.jpg" added="2021-07-10T17:13:41.487945Z" modified="2021-07-10T17:13:47.472307Z" visited="2021-07-10T17:13:41.487947Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-07-10T17:13:47.472291Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>
