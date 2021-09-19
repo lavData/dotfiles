@@ -3,595 +3,1160 @@
       xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
       xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
 >
-  <bookmark href="file:///home/dungvt/Downloads/OneDrive_2021-06-24.zip" added="2021-06-24T23:28:48.503077Z" modified="2021-06-24T23:28:48.503088Z" visited="2021-06-24T23:28:48.503079Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-06-24T23:28:48.503083Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/dungvt/Downloads/file_example_PPT_1MB.ppt" added="2021-06-25T03:10:07.537631Z" modified="2021-06-25T03:10:07.537643Z" visited="2021-06-25T03:10:07.537632Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/vnd.ms-powerpoint"/>
-        <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-06-25T03:10:07.537637Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/dungvt/Documents/The%20Runtime%20of%20Learning.pptx" added="2021-06-25T04:05:54.684432Z" modified="2021-06-25T04:05:54.684444Z" visited="2021-06-25T04:05:54.684433Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/octet-stream"/>
-        <bookmark:applications>
-          <bookmark:application name="wpp" exec="&apos;wpp %u&apos;" modified="2021-06-25T04:05:54.684438Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/dungvt/Downloads/IMG_20210624_164301_551.jpg" added="2021-06-26T15:10:04.429467Z" modified="2021-06-26T15:10:04.429482Z" visited="2021-06-26T15:10:04.429469Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/jpeg"/>
-        <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-06-26T15:10:04.429474Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///run/media/dungvt/Coding/Python/CHATROOM/server.py" added="2021-06-27T07:48:30.039879Z" modified="2021-06-27T07:48:30.039885Z" visited="2021-06-27T07:48:30.039880Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="text/x-python"/>
-        <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-06-27T07:48:30.039882Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///run/media/dungvt/Coding/Python/CHATROOM/client.py" added="2021-06-27T07:48:30.039900Z" modified="2021-06-27T07:48:30.039902Z" visited="2021-06-27T07:48:30.039900Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="text/x-python"/>
-        <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-06-27T07:48:30.039901Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/dungvt/Downloads/eTicket.pdf" added="2021-06-27T13:10:23.647388Z" modified="2021-06-27T13:10:23.647399Z" visited="2021-06-27T13:10:23.647390Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/pdf"/>
-        <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-06-27T13:10:23.647394Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/dungvt/Desktop/bg.jpg" added="2021-06-28T07:33:53.301084Z" modified="2021-06-28T07:33:53.301095Z" visited="2021-06-28T07:33:53.301086Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/jpeg"/>
-        <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-06-28T07:33:53.301089Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/dungvt/Desktop/pq1.png" added="2021-06-28T07:45:29.116550Z" modified="2021-06-28T07:45:29.116562Z" visited="2021-06-28T07:45:29.116551Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/png"/>
-        <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-06-28T07:45:29.116557Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/dungvt/Desktop/pq2.png" added="2021-06-28T08:43:49.944631Z" modified="2021-06-28T08:43:49.944645Z" visited="2021-06-28T08:43:49.944633Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/png"/>
-        <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-06-28T08:43:49.944638Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/dungvt/Desktop/2021-06-Phan-chuyen-nganh-K2019.pdf" added="2021-06-28T09:48:20.484696Z" modified="2021-06-28T09:48:20.484702Z" visited="2021-06-28T09:48:20.484697Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/pdf"/>
-        <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-06-28T09:48:20.484699Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/dungvt/Desktop/mp3-4160316_960_720.jpg" added="2021-06-28T21:59:01.116643Z" modified="2021-06-28T21:59:25.616523Z" visited="2021-06-28T21:59:01.116645Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/jpeg"/>
-        <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-06-28T21:59:25.616518Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/dungvt/19120202.sql" added="2021-06-29T16:00:07.282851Z" modified="2021-06-29T16:00:07.282857Z" visited="2021-06-29T16:00:07.282852Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/sql"/>
-        <bookmark:applications>
-          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-06-29T16:00:07.282854Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/dungvt/Desktop/dailyschedule.xlsx" added="2021-07-01T15:19:02.215744Z" modified="2021-07-01T15:19:02.215748Z" visited="2021-07-01T15:19:02.215745Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/wps-office.xlsx"/>
-        <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-07-01T15:19:02.215747Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/dungvt/Desktop/LOC_sample_submission.csv.zip" added="2021-07-03T08:34:36.211447Z" modified="2021-07-03T08:34:36.211451Z" visited="2021-07-03T08:34:36.211447Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-07-03T08:34:36.211449Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/dungvt/Desktop/kaggle.json" added="2021-07-03T08:37:28.884508Z" modified="2021-07-03T08:40:52.162985Z" visited="2021-07-03T08:37:28.884508Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/json"/>
-        <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-07-03T08:40:52.162983Z" count="3"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/dungvt/Desktop/blocksite_export_07-04-2021.csv" added="2021-07-03T17:38:56.236026Z" modified="2021-07-03T17:38:56.236029Z" visited="2021-07-03T17:38:56.236026Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="text/csv"/>
-        <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-07-03T17:38:56.236027Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///tmp/mozilla_dungvt0/201489301_1115804588910394_2447224471647129962_n.jpg" added="2021-07-04T09:10:43.702794Z" modified="2021-07-04T09:12:26.524436Z" visited="2021-07-04T09:10:43.702795Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/jpeg"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-07-04T09:12:26.524431Z" count="3"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/dungvt/Desktop/COURSES.docx" added="2021-07-04T13:33:56.341566Z" modified="2021-07-04T13:34:05.635761Z" visited="2021-07-04T13:33:56.341566Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/wps-office.docx"/>
-        <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-07-04T13:34:05.635748Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/dungvt/Desktop/github-recovery-codes.txt" added="2021-07-06T08:45:34.793724Z" modified="2021-07-06T08:45:34.793735Z" visited="2021-07-06T08:45:34.793726Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="text/plain"/>
-        <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-07-06T08:45:34.793729Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/dungvt/Documents/Blog.docx" added="2021-07-06T13:35:14.007138Z" modified="2021-07-06T13:35:14.007148Z" visited="2021-07-06T13:35:14.007140Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/octet-stream"/>
-        <bookmark:applications>
-          <bookmark:application name="wps" exec="&apos;wps %u&apos;" modified="2021-07-06T13:35:14.007143Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/dungvt/a.cpp" added="2021-07-07T15:02:16.956711Z" modified="2021-07-07T15:02:16.956722Z" visited="2021-07-07T15:02:16.956713Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="text/x-c++src"/>
-        <bookmark:applications>
-          <bookmark:application name="Sublime Text" exec="&apos;subl %u&apos;" modified="2021-07-07T15:02:16.956715Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/dungvt/Desktop/%5BFsoft%20AI%20Residency%5D%20Maths-Syllabus_07+08.2021.pdf" added="2021-07-07T20:00:18.135280Z" modified="2021-07-07T20:00:18.135292Z" visited="2021-07-07T20:00:18.135281Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/pdf"/>
-        <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-07-07T20:00:18.135286Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/dungvt/Downloads/meow.jpg" added="2021-07-08T08:07:40.780291Z" modified="2021-07-10T21:04:02.142061Z" visited="2021-07-08T08:07:40.780295Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/jpeg"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-07-10T21:04:02.142050Z" count="7"/>
-          <bookmark:application name="electron" exec="&apos;electron %u&apos;" modified="2021-07-09T08:47:28.105794Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/dungvt/Downloads/206029658_230042785602786_2355625188532816739_n.png" added="2021-07-08T17:06:30.658776Z" modified="2021-07-08T17:10:57.945372Z" visited="2021-07-08T17:06:30.658778Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/png"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-07-08T17:10:57.945367Z" count="5"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///tmp/mozilla_dungvt0/toan-to-hop_le-van-luyen_chuong-5_cay%20-%20%5Bcuuduongthancong.com%5D.pdf" added="2021-07-09T12:47:48.663878Z" modified="2021-07-09T12:47:48.663887Z" visited="2021-07-09T12:47:48.663879Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/pdf"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-07-09T12:47:48.663882Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///tmp/mozilla_dungvt0/CHUY%C3%8AN%20%C4%90%E1%BB%80%20QUY%20N%E1%BA%A0P%20TRONG%20H%C3%8CNH%20H%E1%BB%8CC%203.pdf" added="2021-07-09T13:03:15.038798Z" modified="2021-07-09T13:03:15.038868Z" visited="2021-07-09T13:03:15.038806Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/pdf"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-07-09T13:03:15.038831Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/dungvt/Downloads/meow1.jpg" added="2021-07-09T16:52:34.461410Z" modified="2021-07-09T17:50:12.121284Z" visited="2021-07-09T16:52:34.461413Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/jpeg"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-07-09T17:50:12.121274Z" count="5"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/dungvt/Downloads/dog1.jpg" added="2021-07-09T16:57:24.581663Z" modified="2021-07-09T16:57:31.517738Z" visited="2021-07-09T16:57:24.581666Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/jpeg"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-07-09T16:57:31.517732Z" count="3"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/dungvt/Downloads/duck1.jpg" added="2021-07-09T16:59:21.793064Z" modified="2021-07-13T13:07:34.301929Z" visited="2021-07-09T16:59:21.793069Z">
+  <bookmark href="file:///home/dungvt/Downloads/duck1.jpg" added="2021-07-09T16:59:21.793064Z" modified="2021-09-17T15:29:09.808705Z" visited="2021-07-09T16:59:21.793069Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/jpeg"/>
         <bookmark:applications>
           <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-07-13T13:07:34.301917Z" count="9"/>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-17T15:29:09.808697Z" count="8"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/dungvt/Downloads/hehe.jpg" added="2021-07-09T17:01:23.420774Z" modified="2021-07-09T17:01:28.891297Z" visited="2021-07-09T17:01:23.420779Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/jpeg"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-07-09T17:01:28.891290Z" count="3"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///tmp/mozilla_dungvt0/348-Article%20Text-606-1-10-20200728.pdf" added="2021-07-09T17:48:56.872587Z" modified="2021-07-09T17:48:56.872598Z" visited="2021-07-09T17:48:56.872589Z">
+  <bookmark href="file:///home/dungvt/Desktop/%5BAI%20Residency%5D%20-%20English%20Courses/SESSION%202-3-4%20GENERATIONS.pdf" added="2021-07-15T02:30:16.468449Z" modified="2021-08-25T13:06:58.206644Z" visited="2021-07-15T02:30:16.468450Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/pdf"/>
         <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-07-09T17:48:56.872593Z" count="1"/>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-25T13:06:58.206638Z" count="2"/>
+          <bookmark:application name="wpspdf" exec="&apos;wpspdf %u&apos;" modified="2021-07-27T19:02:14.718810Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/dungvt/Downloads/meow2.jpg" added="2021-07-10T05:50:54.945880Z" modified="2021-07-13T13:07:52.801656Z" visited="2021-07-10T05:50:54.945883Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/jpeg"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-07-13T13:07:52.801650Z" count="7"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/dungvt/Downloads/excuse.jpg" added="2021-07-10T05:54:29.727881Z" modified="2021-07-10T13:03:53.611405Z" visited="2021-07-10T05:54:29.727884Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/jpeg"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-07-10T13:03:53.611400Z" count="4"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/dungvt/Downloads/ava.jpg" added="2021-07-10T17:13:41.487945Z" modified="2021-07-10T17:13:47.472307Z" visited="2021-07-10T17:13:41.487947Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/jpeg"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-07-10T17:13:47.472291Z" count="3"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/dungvt/Downloads/Applied%20Combinatorics%20by%20Alan%20Tucker%20(z-lib.org).pdf" added="2021-07-12T09:22:50.619672Z" modified="2021-07-12T09:22:54.212077Z" visited="2021-07-12T09:22:50.619673Z">
+  <bookmark href="file:///home/dungvt/Desktop/%5BAI%20Residency%5D%20-%20English%20Courses/SESSION%205-6-7%20LEISURE%20TIME.pdf" added="2021-07-27T02:49:50.641661Z" modified="2021-08-25T13:06:58.206699Z" visited="2021-07-27T02:49:50.641662Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/pdf"/>
         <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-07-12T09:22:54.212072Z" count="2"/>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-25T13:06:58.206696Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/dungvt/Desktop/%5BAI%20Residency%5D%20-%20English%20Courses/2021-06-Phan-chuyen-nganh-K2019.pdf" added="2021-07-13T02:52:07.599069Z" modified="2021-07-13T02:52:07.599089Z" visited="2021-07-13T02:52:07.599071Z">
+  <bookmark href="file:///home/dungvt/Desktop/%5BAI%20Residency%5D%20-%20English%20Courses/SESSION%208-9-10%20-%20THE%20HUMAN%20BODY.pdf" added="2021-08-05T03:29:42.526980Z" modified="2021-08-25T13:06:58.206718Z" visited="2021-08-05T03:29:42.526981Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/pdf"/>
         <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-07-13T02:52:07.599078Z" count="1"/>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-25T13:06:58.206715Z" count="2"/>
+          <bookmark:application name="wpspdf" exec="&apos;wpspdf %u&apos;" modified="2021-08-12T03:15:57.290355Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///tmp/mozilla_dungvt0/%C4%90%E1%BA%B7t-t%C3%AAn-MSS1.docx" added="2021-07-13T08:14:51.602208Z" modified="2021-07-13T08:14:51.602236Z" visited="2021-07-13T08:14:51.602210Z">
+  <bookmark href="file:///home/dungvt/69684299_1300229763470526_3760238859716132864_n.jpg" added="2021-08-11T13:58:04.445374Z" modified="2021-08-24T08:45:38.366807Z" visited="2021-08-11T13:58:04.445376Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-11T13:58:04.445381Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-08-11T13:58:11.663709Z" count="1"/>
+          <bookmark:application name="teams" exec="&apos;teams %u&apos;" modified="2021-08-24T08:45:38.366801Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Documents/simplescreenrecorder-2021-08-19_19.46.38.mp4" added="2021-08-19T13:51:04.717831Z" modified="2021-08-19T13:51:04.717843Z" visited="2021-08-19T13:51:04.717832Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-19T13:51:04.717837Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/HTT/Autoencoding%20Variational%20Bayes/Autoencoding%20Variational%20Bayes.pdf" added="2021-08-19T15:27:17.255680Z" modified="2021-08-26T12:36:25.884793Z" visited="2021-08-19T15:27:17.255682Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-19T15:27:17.255687Z" count="1"/>
+          <bookmark:application name="wpspdf" exec="&apos;wpspdf %u&apos;" modified="2021-08-26T12:36:25.884785Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/HTT/Autoencoding%20Variational%20Bayes/1406.2661.pdf" added="2021-08-19T16:18:22.762517Z" modified="2021-08-20T05:07:25.605943Z" visited="2021-08-19T16:18:22.762518Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-19T16:18:22.762519Z" count="1"/>
+          <bookmark:application name="wpspdf" exec="&apos;wpspdf %u&apos;" modified="2021-08-20T05:07:25.605937Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/HTT/Autoencoding%20Variational%20Bayes/certificate-px9sm59smoao-1629459582.pdf" added="2021-08-20T11:41:08.814784Z" modified="2021-08-20T11:41:50.688938Z" visited="2021-08-20T11:41:08.814785Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-20T11:41:50.688930Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Desktop/usb.jpg" added="2021-08-21T03:34:22.471283Z" modified="2021-08-21T03:34:22.471295Z" visited="2021-08-21T03:34:22.471285Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-21T03:34:22.471289Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/HTT/Autoencoding%20Variational%20Bayes/Varitional%20Inference.pdf" added="2021-08-21T05:19:28.097626Z" modified="2021-08-21T05:19:28.097639Z" visited="2021-08-21T05:19:28.097628Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-21T05:19:28.097633Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Pictures/Sun%20Aug%2022%2011:12:06%20AM%20+07%202021.png" added="2021-08-22T04:12:57.127035Z" modified="2021-08-22T04:12:57.127039Z" visited="2021-08-22T04:12:57.127036Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-22T04:12:57.127037Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Pictures/Sun%20Aug%2022%2012:04:32%20PM%20+07%202021.png" added="2021-08-22T05:21:51.139254Z" modified="2021-08-22T05:21:51.139269Z" visited="2021-08-22T05:21:51.139256Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-22T05:21:51.139261Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Pictures/Sun%20Aug%2022%2012:04:26%20PM%20+07%202021.png" added="2021-08-22T05:21:51.139308Z" modified="2021-08-22T05:21:51.139317Z" visited="2021-08-22T05:21:51.139308Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-22T05:21:51.139312Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Pictures/Sun%20Aug%2022%2012:04:18%20PM%20+07%202021.png" added="2021-08-22T05:21:51.139338Z" modified="2021-08-22T05:21:51.139345Z" visited="2021-08-22T05:21:51.139338Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-22T05:21:51.139341Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Pictures/Sun%20Aug%2022%2012:04:12%20PM%20+07%202021.png" added="2021-08-22T05:21:51.139363Z" modified="2021-08-22T05:21:51.139372Z" visited="2021-08-22T05:21:51.139364Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-22T05:21:51.139367Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Desktop/aaa.png" added="2021-08-22T06:32:21.454853Z" modified="2021-08-22T06:34:47.895546Z" visited="2021-08-22T06:32:21.454855Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-22T06:34:47.895543Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Desktop/aaaa.png" added="2021-08-22T06:42:31.756140Z" modified="2021-08-22T06:42:39.763779Z" visited="2021-08-22T06:42:31.756142Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-22T06:42:39.763775Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Desktop/FAIC_Day_2_Full_Presentation_2___Lightning_Presentation_2_DungVT19.pdf" added="2021-08-22T06:47:08.957558Z" modified="2021-08-22T06:48:32.648754Z" visited="2021-08-22T06:47:08.957560Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-22T06:48:32.648750Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Desktop/FAIC_Day_2_Full_Presentation_2_DungVT19.pdf" added="2021-08-22T08:11:15.759646Z" modified="2021-08-22T08:11:15.759659Z" visited="2021-08-22T08:11:15.759648Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-22T08:11:15.759653Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Desktop/FAIC_Day_2_Lightning_Presentation_2_DungVT19.pdf" added="2021-08-22T08:11:27.611303Z" modified="2021-08-22T08:11:27.611315Z" visited="2021-08-22T08:11:27.611305Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-22T08:11:27.611309Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Desktop/FAIC_Day_3_Lightning_Presentation_2_DungVT19.pdf" added="2021-08-22T08:12:09.320138Z" modified="2021-08-22T08:13:06.219130Z" visited="2021-08-22T08:12:09.320141Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-22T08:13:06.219127Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Desktop/FAIC_Day_3_Full_Presentation_2_DungVT19.pdf" added="2021-08-22T08:12:30.963125Z" modified="2021-08-22T08:13:06.219109Z" visited="2021-08-22T08:12:30.963126Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-22T08:13:06.219105Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Desktop/Murphy_Machine_Learning.pdf" added="2021-08-22T08:25:31.876052Z" modified="2021-08-22T08:25:31.876066Z" visited="2021-08-22T08:25:31.876053Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-22T08:25:31.876059Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Desktop/1200px-Cards-3-Heart.svg.png" added="2021-08-22T08:27:50.554532Z" modified="2021-08-22T08:28:11.695121Z" visited="2021-08-22T08:27:50.554534Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-22T08:28:11.695117Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Desktop/FAIC_Day_3_Full_Presentation_2_DungVT19+BachNV4.pdf" added="2021-08-22T12:24:45.064023Z" modified="2021-08-22T12:24:45.064033Z" visited="2021-08-22T12:24:45.064024Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-22T12:24:45.064028Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Desktop/12029" added="2021-08-22T14:05:35.482854Z" modified="2021-08-22T14:05:35.482865Z" visited="2021-08-22T14:05:35.482855Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-22T14:05:35.482859Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Pictures/Mon%20Aug%2023%2001:37:28%20AM%20+07%202021.png" added="2021-08-22T18:37:53.559598Z" modified="2021-08-22T18:37:53.559615Z" visited="2021-08-22T18:37:53.559600Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-22T18:37:53.559606Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Pictures/Mon%20Aug%2023%2001:54:21%20AM%20+07%202021.png" added="2021-08-22T18:54:33.694760Z" modified="2021-08-22T18:54:33.694771Z" visited="2021-08-22T18:54:33.694761Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-22T18:54:33.694765Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Desktop/FinalExam_IT064IU_2021_3-signed.pdf" added="2021-08-23T05:54:25.376863Z" modified="2021-08-23T05:54:25.376868Z" visited="2021-08-23T05:54:25.376864Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-23T05:54:25.376865Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Desktop/CQ_TKB-LT-va-TH-HK1-2122.pdf" added="2021-08-23T05:57:23.706428Z" modified="2021-08-23T05:57:23.706440Z" visited="2021-08-23T05:57:23.706429Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-23T05:57:23.706434Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/HTT/Autoencoding%20Variational%20Bayes/Variational%20Inference:%20A%20Review%20for%20Statisticians.pdf" added="2021-08-23T12:06:04.674539Z" modified="2021-08-28T13:15:05.116933Z" visited="2021-08-23T12:06:04.674540Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-23T12:06:04.674545Z" count="1"/>
+          <bookmark:application name="wpspdf" exec="&apos;wpspdf %u&apos;" modified="2021-08-28T13:15:05.116928Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Pictures/Mon%20Aug%2023%2007:54:04%20PM%20+07%202021.png" added="2021-08-23T12:54:17.946123Z" modified="2021-08-23T12:54:17.946128Z" visited="2021-08-23T12:54:17.946124Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-23T12:54:17.946126Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Pictures/Mon%20Aug%2023%2007:55:32%20PM%20+07%202021.png" added="2021-08-23T12:55:42.070558Z" modified="2021-08-23T12:55:42.070570Z" visited="2021-08-23T12:55:42.070560Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-23T12:55:42.070564Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Pictures/Mon%20Aug%2023%2007:53:26%20PM%20+07%202021.png" added="2021-08-23T13:05:56.518749Z" modified="2021-08-23T13:05:56.518758Z" visited="2021-08-23T13:05:56.518750Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-23T13:05:56.518753Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/HTT/Autoencoding%20Variational%20Bayes/stat-cookbook.pdf" added="2021-08-23T14:56:44.503657Z" modified="2021-08-23T14:56:44.503665Z" visited="2021-08-23T14:56:44.503658Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-23T14:56:44.503661Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Books/Pattern%20Recognition%20and%20Machine%20Learning%20by%20Christopher%20M.%20Bishop%20(z-lib.org).pdf" added="2021-08-23T16:04:48.861033Z" modified="2021-08-23T16:04:48.861047Z" visited="2021-08-23T16:04:48.861035Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-23T16:04:48.861040Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Desktop/%5BAI%20Residency%5D%20-%20English%20Courses/SESSION%2011%20-%20MINI%20PROJECT%201.pdf" added="2021-08-24T02:22:42.907359Z" modified="2021-08-25T13:06:58.206678Z" visited="2021-08-24T02:22:42.907360Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-25T13:06:58.206675Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Desktop/%5BAI%20Residency%5D%20-%20English%20Courses/124265731_1700089960151169_1693457129488170314_n.jpg" added="2021-08-24T08:45:28.155187Z" modified="2021-08-24T13:19:44.796713Z" visited="2021-08-24T08:45:28.155189Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-24T08:45:28.155196Z" count="1"/>
+          <bookmark:application name="teams" exec="&apos;teams %u&apos;" modified="2021-08-24T13:19:44.796710Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Pictures/Tue%20Aug%2024%2007:14:41%20PM%20+07%202021.png" added="2021-08-24T12:15:16.721899Z" modified="2021-08-24T12:15:16.721903Z" visited="2021-08-24T12:15:16.721900Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-24T12:15:16.721901Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/preassesment_DungVT19_fsoft_com_vn.py" added="2021-08-25T03:49:15.683416Z" modified="2021-08-25T03:49:15.683424Z" visited="2021-08-25T03:49:15.683417Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-25T03:49:15.683420Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/preassessment_DungVT19_fsoft_com_vn.py" added="2021-08-25T03:49:40.155528Z" modified="2021-08-25T03:49:40.155535Z" visited="2021-08-25T03:49:40.155529Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-25T03:49:40.155531Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Desktop/%5BAI%20Residency%5D%20-%20English%20Courses/SV-chua-dang-ky-CNganh.pdf" added="2021-08-25T06:40:15.690252Z" modified="2021-08-25T06:40:15.690264Z" visited="2021-08-25T06:40:15.690254Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-25T06:40:15.690258Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Pictures/Wed%20Aug%2025%2008:34:08%20PM%20+07%202021.png" added="2021-08-25T13:34:27.256100Z" modified="2021-08-25T13:34:27.256111Z" visited="2021-08-25T13:34:27.256102Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-25T13:34:27.256106Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Pictures/Wed%20Aug%2025%2009:53:29%20PM%20+07%202021.png" added="2021-08-25T14:53:38.519963Z" modified="2021-08-25T14:53:38.519969Z" visited="2021-08-25T14:53:38.519964Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-25T14:53:38.519965Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Pictures/Wed%20Aug%2025%2009:54:36%20PM%20+07%202021.png" added="2021-08-25T14:54:51.261245Z" modified="2021-08-25T14:54:51.261252Z" visited="2021-08-25T14:54:51.261246Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-25T14:54:51.261249Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Desktop/%5BAI%20Residency%5D%20-%20English%20Courses/SESSION%2012-13-14%20-%20HOME.pdf" added="2021-08-26T02:25:52.614074Z" modified="2021-08-26T02:25:52.614087Z" visited="2021-08-26T02:25:52.614075Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-26T02:25:52.614080Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Desktop/%5BAI%20Residency%5D%20-%20English%20Courses/08-2021-Phan-chuyen-nganh-K2019-CQ.pdf" added="2021-08-26T03:07:34.350808Z" modified="2021-08-26T13:04:04.539129Z" visited="2021-08-26T03:07:34.350808Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-26T03:07:34.350810Z" count="1"/>
+          <bookmark:application name="wpspdf" exec="&apos;wpspdf %u&apos;" modified="2021-08-26T13:04:04.539123Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/HTT/Autoencoding%20Variational%20Bayes/Implementation/train-images-idx3-ubyte.gz" added="2021-08-28T17:31:14.472523Z" modified="2021-08-28T17:31:14.472537Z" visited="2021-08-28T17:31:14.472524Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/gzip"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-28T17:31:14.472530Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/HTT/Autoencoding%20Variational%20Bayes/Implementation/Data/archive.zip" added="2021-08-28T17:38:12.312668Z" modified="2021-08-28T17:38:12.312683Z" visited="2021-08-28T17:38:12.312670Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-28T17:38:12.312675Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/HTT/Autoencoding%20Variational%20Bayes/Implementation/vae.py" added="2021-08-28T18:19:27.709084Z" modified="2021-08-28T18:21:56.648787Z" visited="2021-08-28T18:19:27.709086Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-28T18:21:56.648777Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/HTT/Autoencoding%20Variational%20Bayes/Implementation/train.py" added="2021-08-28T18:19:27.709126Z" modified="2021-08-28T18:21:56.648848Z" visited="2021-08-28T18:19:27.709126Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-28T18:21:56.648841Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/HTT/Autoencoding%20Variational%20Bayes/Implementation/data.py" added="2021-08-28T18:19:27.709146Z" modified="2021-08-28T18:21:56.648891Z" visited="2021-08-28T18:19:27.709147Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-28T18:21:56.648885Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/HTT/Autoencoding%20Variational%20Bayes/Implementation/Data/mnist.mat" added="2021-08-28T18:19:33.499318Z" modified="2021-08-31T14:53:15.831834Z" visited="2021-08-28T18:19:33.499320Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-31T14:53:15.831828Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/HTT/Autoencoding%20Variational%20Bayes/Implementation/Data" added="2021-08-28T18:23:00.696818Z" modified="2021-08-28T18:23:00.696827Z" visited="2021-08-28T18:23:00.696819Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-28T18:23:00.696823Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/learn-machine-learning-algorithm/LinearRegression/DATA.txt" added="2021-08-29T08:30:18.783375Z" modified="2021-08-29T09:52:49.779364Z" visited="2021-08-29T08:30:18.783376Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-29T09:52:49.779362Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Downloads/torch_tuto.ipynb" added="2021-08-29T09:51:32.481177Z" modified="2021-08-29T09:51:44.554570Z" visited="2021-08-29T09:51:32.481178Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ipynb+json"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-29T09:51:44.554567Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Downloads/MIDTERM%20TEST.pdf" added="2021-08-29T12:58:30.661852Z" modified="2021-08-29T12:58:30.661858Z" visited="2021-08-29T12:58:30.661853Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-29T12:58:30.661855Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Downloads/DungVT19_Midterm.docx" added="2021-08-29T13:44:54.907288Z" modified="2021-08-29T14:20:01.980987Z" visited="2021-08-29T13:44:54.907290Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/wps-office.docx"/>
         <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-07-13T08:14:51.602222Z" count="1"/>
+          <bookmark:application name="wps" exec="&apos;wps %u&apos;" modified="2021-08-29T13:44:54.907293Z" count="1"/>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-29T14:20:01.980981Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///tmp/mozilla_dungvt0/CSDL-mau-thi-ck.docx" added="2021-07-13T08:25:44.394349Z" modified="2021-07-13T08:25:44.394360Z" visited="2021-07-13T08:25:44.394351Z">
+  <bookmark href="file:///home/dungvt/Downloads/DungVT19_Midterm.pdf" added="2021-08-29T14:20:01.980956Z" modified="2021-08-29T14:20:01.980963Z" visited="2021-08-29T14:20:01.980957Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-29T14:20:01.980960Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/Image-Watermarking-on-Deep-Neural-Network.pdf" added="2021-08-30T07:01:11.578036Z" modified="2021-08-30T07:01:11.578053Z" visited="2021-08-30T07:01:11.578038Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-30T07:01:11.578044Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Downloads/archive.zip" added="2021-08-30T07:01:47.138784Z" modified="2021-08-30T07:01:47.138796Z" visited="2021-08-30T07:01:47.138786Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-30T07:01:47.138790Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Downloads/OneDrive_2021-06-24.zip" added="2021-08-30T07:02:07.526599Z" modified="2021-08-30T07:02:07.526615Z" visited="2021-08-30T07:02:07.526601Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-30T07:02:07.526607Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Downloads/archlinux-2021.08.01-x86_64.iso" added="2021-08-30T09:04:06.699350Z" modified="2021-08-30T09:04:06.699356Z" visited="2021-08-30T09:04:06.699351Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-cd-image"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-30T09:04:06.699353Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/dungvt/Coding/Python-Data-Science-Handbook.-Essential-Tools-for-Working-with-Data-by-Jake-VanderPlas-z-lib.org.pdf" added="2021-08-30T11:30:59.673956Z" modified="2021-08-30T11:30:59.673969Z" visited="2021-08-30T11:30:59.673958Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-30T11:30:59.673963Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/dungvt/Coding/Draft.pdf" added="2021-08-30T13:15:46.938963Z" modified="2021-08-30T13:15:46.938976Z" visited="2021-08-30T13:15:46.938965Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-30T13:15:46.938969Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/dungvt/Coding/Copy-of-DANH-S%C3%81CH-NH%C3%82N-VI%C3%8AN-THAM-GIA-CH%C3%8DCH-VACCINE-C%E1%BB%98NG-%C4%90%E1%BB%92NG-V%C3%80-%C4%90I-NGO%E1%BA%A0I-VI%E1%BB%86N-1.xlsx" added="2021-08-31T06:50:19.704323Z" modified="2021-08-31T06:50:19.704336Z" visited="2021-08-31T06:50:19.704324Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/wps-office.xlsx"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-31T06:50:19.704329Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Desktop/TrangNDP.xlsx" added="2021-08-31T07:23:12.814102Z" modified="2021-08-31T07:23:32.774555Z" visited="2021-08-31T07:23:12.814103Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/wps-office.xlsx"/>
+        <bookmark:applications>
+          <bookmark:application name="et" exec="&apos;et %u&apos;" modified="2021-08-31T07:23:12.814105Z" count="1"/>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-31T07:23:32.774552Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/HTT/Autoencoding%20Variational%20Bayes/Implementation/Data/mnist.zip" added="2021-08-31T08:05:30.024053Z" modified="2021-08-31T08:05:30.024060Z" visited="2021-08-31T08:05:30.024054Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-31T08:05:30.024057Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/HTT/Autoencoding%20Variational%20Bayes/Implementation/Data/mnist-original.mat.zip" added="2021-08-31T13:42:39.139452Z" modified="2021-08-31T13:43:22.620475Z" visited="2021-08-31T13:42:39.139453Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-31T13:43:22.620473Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/HTT/Autoencoding%20Variational%20Bayes/Implementation/Visualization.ipynb" added="2021-08-31T14:51:19.378915Z" modified="2021-08-31T17:49:36.443643Z" visited="2021-08-31T14:51:19.378916Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ipynb+json"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-31T17:49:36.443637Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/dungvt/Coding/Slides-20210317-20210902T082144Z-001.zip" added="2021-09-02T08:20:35.493458Z" modified="2021-09-02T08:20:35.493465Z" visited="2021-09-02T08:20:35.493459Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-02T08:20:35.493462Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/dungvt/Coding/Final_Exam_2021.pdf" added="2021-09-02T12:06:46.224653Z" modified="2021-09-02T12:06:46.224668Z" visited="2021-09-02T12:06:46.224655Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-02T12:06:46.224660Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/HTT/Autoencoding%20Variational%20Bayes/Implementation/Data/fashion-mnist_train.csv.zip" added="2021-09-03T08:08:44.024234Z" modified="2021-09-03T08:08:44.024248Z" visited="2021-09-03T08:08:44.024235Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-03T08:08:44.024240Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/HTT/Autoencoding%20Variational%20Bayes/Implementation/Data/fashion-mnist_test.csv.zip" added="2021-09-03T08:32:46.488774Z" modified="2021-09-03T08:32:46.488788Z" visited="2021-09-03T08:32:46.488776Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-03T08:32:46.488781Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/HTT/Autoencoding%20Variational%20Bayes/Implementation/Data/legend.py" added="2021-09-03T08:54:43.232971Z" modified="2021-09-03T08:54:43.232986Z" visited="2021-09-03T08:54:43.232972Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-03T08:54:43.232978Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/HTT/Autoencoding%20Variational%20Bayes/Implementation/VAE_reduce_noise/Visualization.ipynb" added="2021-09-03T11:49:20.879283Z" modified="2021-09-03T11:49:20.879293Z" visited="2021-09-03T11:49:20.879285Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ipynb+json"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-03T11:49:20.879288Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/HTT/Autoencoding%20Variational%20Bayes/Implementation/Data/mips1.asm" added="2021-09-03T13:19:14.694098Z" modified="2021-09-03T13:19:14.694111Z" visited="2021-09-03T13:19:14.694100Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-03T13:19:14.694105Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Downloads/212750859_154242540033572_5261121728471860441_n.jpg" added="2021-09-03T17:28:10.658443Z" modified="2021-09-03T17:28:10.658448Z" visited="2021-09-03T17:28:10.658444Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-03T17:28:10.658445Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Downloads/ava.jpg" added="2021-09-03T17:28:14.720064Z" modified="2021-09-14T14:17:33.318792Z" visited="2021-09-03T17:28:14.720065Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-14T14:17:33.318790Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Desktop/Lecture%201%20Logistics%20and%20Motivation%20(public).png" added="2021-09-03T17:49:22.796910Z" modified="2021-09-03T17:49:35.148343Z" visited="2021-09-03T17:49:22.796912Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-03T17:49:22.796917Z" count="1"/>
+          <bookmark:application name="notion-app" exec="&apos;notion-app %u&apos;" modified="2021-09-03T17:49:35.148337Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Desktop/StayFocusd_2021-09-04.json" added="2021-09-04T06:03:41.628125Z" modified="2021-09-04T06:03:41.628137Z" visited="2021-09-04T06:03:41.628126Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/json"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-04T06:03:41.628131Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Desktop/Lab6_18520072_TranDinhKhang.pdf" added="2021-09-04T08:36:15.885132Z" modified="2021-09-04T08:36:15.885152Z" visited="2021-09-04T08:36:15.885134Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-04T08:36:15.885142Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_dungvt0/JD-FRONTEND.pdf" added="2021-09-06T11:42:43.509519Z" modified="2021-09-06T11:42:43.509529Z" visited="2021-09-06T11:42:43.509520Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-09-06T11:42:43.509524Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Downloads/y-nghia-thu-vi-cua-cau-luong-va-com-cho-1.png" added="2021-09-06T13:49:52.539358Z" modified="2021-09-06T13:50:10.099862Z" visited="2021-09-06T13:49:52.539359Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-09-06T13:50:10.099858Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_dungvt0/KNN-Comparison-between-Uniform-weights-and-weighted-neighbors.png" added="2021-09-07T02:31:24.675376Z" modified="2021-09-07T02:31:24.675384Z" visited="2021-09-07T02:31:24.675377Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-09-07T02:31:24.675379Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Desktop/QR_Khai_Bao_Y_Te_08092021.png" added="2021-09-08T13:15:51.343866Z" modified="2021-09-08T13:19:32.893517Z" visited="2021-09-08T13:15:51.343868Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-08T13:19:32.893512Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Desktop/convex-fns.pdf" added="2021-09-09T06:27:28.229417Z" modified="2021-09-09T06:28:49.616384Z" visited="2021-09-09T06:27:28.229417Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-09T06:27:28.229419Z" count="1"/>
+          <bookmark:application name="wpspdf" exec="&apos;wpspdf %u&apos;" modified="2021-09-09T06:28:49.616379Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Desktop/convex&apos;" added="2021-09-09T06:28:24.513957Z" modified="2021-09-09T06:28:24.513963Z" visited="2021-09-09T06:28:24.513958Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="wpspdf" exec="&apos;wpspdf %u&apos;" modified="2021-09-09T06:28:24.513959Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_dungvt0/QuiDinh_ThiTrucTuyen.pdf" added="2021-09-09T13:46:30.754536Z" modified="2021-09-09T13:46:30.754543Z" visited="2021-09-09T13:46:30.754537Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-09-09T13:46:30.754539Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Desktop/07_Mach%20Logic.pdf" added="2021-09-09T14:05:26.689745Z" modified="2021-09-09T14:05:26.689752Z" visited="2021-09-09T14:05:26.689746Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-09T14:05:26.689749Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Desktop/LSD-19CTT2.pdf" added="2021-09-10T11:01:47.294864Z" modified="2021-09-10T11:01:47.294876Z" visited="2021-09-10T11:01:47.294866Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-10T11:01:47.294870Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/dungvt/Winw/CV/CV%20&amp;%20Resume/Resume%20Template/Resume_DungVo.docx" added="2021-09-11T10:33:34.481105Z" modified="2021-09-11T10:33:34.481110Z" visited="2021-09-11T10:33:34.481106Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/wps-office.docx"/>
         <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-07-13T08:25:44.394355Z" count="1"/>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-11T10:33:34.481107Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///tmp/mozilla_dungvt0/toan-roi-rac_tran-vinh-duc_lec16-truyhoi%20-%20%5Bcuuduongthancong.com%5D.pdf" added="2021-07-14T08:45:30.178327Z" modified="2021-07-14T08:45:30.178334Z" visited="2021-07-14T08:45:30.178328Z">
+  <bookmark href="file:///home/dungvt/Desktop/Dung_T__VO_Resume%20(1).pdf" added="2021-09-11T10:34:06.268499Z" modified="2021-09-11T10:34:58.140897Z" visited="2021-09-11T10:34:06.268501Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/pdf"/>
         <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-07-14T08:45:30.178331Z" count="1"/>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-11T10:34:58.140892Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/dungvt/Desktop/%5BAI%20Residency%5D%20-%20English%20Courses/SESSION%202-3-4%20GENERATIONS.pdf" added="2021-07-15T02:30:16.468449Z" modified="2021-07-15T02:30:16.468454Z" visited="2021-07-15T02:30:16.468450Z">
+  <bookmark href="file:///home/dungvt/Desktop/2021-06-Phan-chuyen-nganh-K2019.pdf" added="2021-09-11T10:34:35.857803Z" modified="2021-09-11T10:34:35.857815Z" visited="2021-09-11T10:34:35.857804Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/pdf"/>
         <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-07-15T02:30:16.468451Z" count="1"/>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-11T10:34:35.857809Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///tmp/mozilla_dungvt0/212750859_154242540033572_5261121728471860441_n.jpg" added="2021-07-15T03:25:49.564074Z" modified="2021-07-15T03:25:49.564085Z" visited="2021-07-15T03:25:49.564075Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/jpeg"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-07-15T03:25:49.564078Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/dungvt/Downloads/212750859_154242540033572_5261121728471860441_n.jpg" added="2021-07-15T03:26:03.881858Z" modified="2021-07-15T13:11:30.359374Z" visited="2021-07-15T03:26:03.881859Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/jpeg"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-07-15T03:26:03.881863Z" count="1"/>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-07-15T13:11:30.359372Z" count="3"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/dungvt/Desktop/1621918219614.pdf" added="2021-07-15T03:31:39.453185Z" modified="2021-07-15T11:47:59.244258Z" visited="2021-07-15T03:31:39.453187Z">
+  <bookmark href="file:///home/dungvt/Desktop/Dung_T__VO_Resume.pdf" added="2021-09-11T10:34:50.591426Z" modified="2021-09-11T10:34:50.591434Z" visited="2021-09-11T10:34:50.591427Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/pdf"/>
         <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-07-15T03:31:58.306002Z" count="2"/>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-07-15T11:47:59.244231Z" count="1"/>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-11T10:34:50.591430Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/dungvt/cses.cpp" added="2021-07-15T04:20:09.459414Z" modified="2021-07-15T04:20:09.459422Z" visited="2021-07-15T04:20:09.459416Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="text/x-c++src"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-07-15T04:20:09.459419Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/dungvt/Downloads/All%20of%20Statistics%20A%20Concise%20Course%20in%20Statistical%20Inference%20by%20Larry%20Wasserman%20(z-lib.org).pdf" added="2021-07-15T10:31:05.223664Z" modified="2021-07-15T10:31:05.223682Z" visited="2021-07-15T10:31:05.223665Z">
+  <bookmark href="file:///home/dungvt/Desktop/KH-GD&amp;HT-HK1_2021-2022.TBSV.pdf" added="2021-09-11T10:38:19.388270Z" modified="2021-09-11T10:38:19.388282Z" visited="2021-09-11T10:38:19.388271Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/pdf"/>
         <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-07-15T10:31:05.223672Z" count="1"/>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-11T10:38:19.388276Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/dungvt/Desktop/1.jpg" added="2021-07-15T13:05:39.002885Z" modified="2021-07-15T13:09:26.653769Z" visited="2021-07-15T13:05:39.002886Z">
+  <bookmark href="file:///home/dungvt/Desktop/125862620_1309991006005733_3848211865330534198_n.jpg" added="2021-09-11T16:05:43.007099Z" modified="2021-09-11T16:05:57.507069Z" visited="2021-09-11T16:05:43.007100Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/jpeg"/>
         <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-07-15T13:09:26.653765Z" count="2"/>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-11T16:05:57.507066Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/dungvt/Desktop/2.jpg" added="2021-07-15T13:05:43.564536Z" modified="2021-07-15T13:09:26.653788Z" visited="2021-07-15T13:05:43.564537Z">
+  <bookmark href="file:///home/dungvt/Desktop/tram.jpg" added="2021-09-11T16:09:38.153270Z" modified="2021-09-11T16:09:47.659051Z" visited="2021-09-11T16:09:38.153271Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/jpeg"/>
         <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-07-15T13:09:26.653784Z" count="2"/>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-11T16:09:47.659047Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/dungvt/Desktop/3.jpg" added="2021-07-15T13:05:46.899554Z" modified="2021-07-15T13:09:26.653844Z" visited="2021-07-15T13:05:46.899556Z">
+  <bookmark href="file:///home/dungvt/Desktop/240058376_3097704943797377_3229634779739416390_n.jpg" added="2021-09-11T16:39:51.902139Z" modified="2021-09-11T16:40:04.355748Z" visited="2021-09-11T16:39:51.902140Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/jpeg"/>
         <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-07-15T13:09:26.653841Z" count="2"/>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-11T16:40:04.355744Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/dungvt/Desktop/4.jpg" added="2021-07-15T13:05:50.339846Z" modified="2021-07-15T13:09:26.653859Z" visited="2021-07-15T13:05:50.339847Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/jpeg"/>
-        <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-07-15T13:09:26.653856Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/dungvt/Desktop/5.jpg" added="2021-07-15T13:05:54.556272Z" modified="2021-07-15T13:09:26.653875Z" visited="2021-07-15T13:05:54.556274Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/jpeg"/>
-        <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-07-15T13:09:26.653872Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/dungvt/Desktop/6.jpg" added="2021-07-15T13:05:57.317790Z" modified="2021-07-15T13:09:26.653804Z" visited="2021-07-15T13:05:57.317792Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/jpeg"/>
-        <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-07-15T13:09:26.653801Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/dungvt/Desktop/7.jpg" added="2021-07-15T13:06:00.803676Z" modified="2021-07-15T13:09:26.653822Z" visited="2021-07-15T13:06:00.803678Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/jpeg"/>
-        <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-07-15T13:09:26.653819Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/dungvt/Desktop/0cce2c0d9eb56aeb33a4.jpg" added="2021-07-15T13:06:03.884156Z" modified="2021-07-15T13:09:26.653741Z" visited="2021-07-15T13:06:03.884158Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/jpeg"/>
-        <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-07-15T13:09:26.653736Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/dungvt/Desktop/Introductory%20Functional%20Analysis%20With%20Applications%20to%20Boundary%20Value%20Problems%20and%20Finite%20Elements%20by%20B.%20Daya%20Reddy%20(auth.)%20(z-lib.org).pdf" added="2021-07-16T08:16:20.495696Z" modified="2021-07-16T08:16:20.495710Z" visited="2021-07-16T08:16:20.495697Z">
+  <bookmark href="file:///home/dungvt/Desktop/SESSION%2015-16-17%20-%20HIGH%20FLYERS.pdf" added="2021-09-14T03:31:45.711513Z" modified="2021-09-14T03:31:45.711519Z" visited="2021-09-14T03:31:45.711514Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/pdf"/>
         <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-07-16T08:16:20.495703Z" count="1"/>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-14T03:31:45.711516Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/dungvt/Desktop/Principles%20of%20Deep%20Learning%20Theory.pdf" added="2021-07-16T08:42:00.939801Z" modified="2021-07-16T08:42:00.939818Z" visited="2021-07-16T08:42:00.939803Z">
+  <bookmark href="file:///home/dungvt/Desktop/download.png" added="2021-09-14T14:17:22.141525Z" modified="2021-09-14T14:17:22.141539Z" visited="2021-09-14T14:17:22.141527Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-14T14:17:22.141533Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/NDV/Implicit_Model/NeuralODEProcesses.pdf" added="2021-09-14T14:54:57.987022Z" modified="2021-09-19T12:24:04.625331Z" visited="2021-09-14T14:54:57.987023Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/pdf"/>
         <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-07-16T08:42:00.939810Z" count="1"/>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-14T14:54:57.987027Z" count="1"/>
+          <bookmark:application name="wpspdf" exec="&apos;wpspdf %u&apos;" modified="2021-09-19T12:24:04.625329Z" count="3"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/dungvt/Downloads/209202405_212863937363508_8414240349278183854_n.jpg" added="2021-07-16T13:15:33.532010Z" modified="2021-07-16T13:15:53.401969Z" visited="2021-07-16T13:15:33.532010Z">
+  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/NDV/Implicit_Model/NeuralODEs.pdf" added="2021-09-14T14:56:37.222481Z" modified="2021-09-19T12:24:04.625317Z" visited="2021-09-14T14:56:37.222482Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-14T14:56:37.222485Z" count="1"/>
+          <bookmark:application name="wpspdf" exec="&apos;wpspdf %u&apos;" modified="2021-09-19T12:24:04.625315Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/NDV/Implicit_Model/1904.01681.pdf" added="2021-09-16T06:58:07.210289Z" modified="2021-09-19T12:24:04.625304Z" visited="2021-09-16T06:58:07.210291Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-16T06:58:07.210296Z" count="1"/>
+          <bookmark:application name="wpspdf" exec="&apos;wpspdf %u&apos;" modified="2021-09-19T12:24:04.625302Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/NDV/Implicit_Model/19120068.docx" added="2021-09-16T08:43:01.765971Z" modified="2021-09-16T08:43:01.765984Z" visited="2021-09-16T08:43:01.765972Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/wps-office.docx"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-16T08:43:01.765974Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Downloads/letmein.jpeg" added="2021-09-17T03:34:38.972128Z" modified="2021-09-17T16:23:58.342294Z" visited="2021-09-17T03:34:38.972129Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/jpeg"/>
         <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-07-16T13:15:53.401964Z" count="2"/>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-17T16:23:58.342285Z" count="3"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/dungvt/Desktop/DungVT19.pdf" added="2021-07-17T02:59:41.201394Z" modified="2021-07-17T03:01:07.071301Z" visited="2021-07-17T02:59:41.201395Z">
+  <bookmark href="file:///home/dungvt/Downloads/LICHTHI_TRUCTUYEN_HK2_2021_K19_20.xls" added="2021-09-17T10:31:14.136348Z" modified="2021-09-17T10:31:14.136362Z" visited="2021-09-17T10:31:14.136350Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/wps-office.xls"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-17T10:31:14.136356Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Downloads/meow.jpg" added="2021-09-17T15:31:31.692032Z" modified="2021-09-17T15:31:31.692043Z" visited="2021-09-17T15:31:31.692033Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-17T15:31:31.692037Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/NDV/Implicit_Model/Neural%20Controlled%20Differential%20Equations.pdf" added="2021-09-18T16:19:32.443962Z" modified="2021-09-19T12:24:04.625281Z" visited="2021-09-18T16:19:32.443964Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/pdf"/>
         <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-07-17T03:01:07.071299Z" count="3"/>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-18T16:19:32.443971Z" count="1"/>
+          <bookmark:application name="wpspdf" exec="&apos;wpspdf %u&apos;" modified="2021-09-19T12:24:04.625275Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/dungvt/Desktop/AssaultCube_v1.2.0.2.tar.bz2" added="2021-07-17T07:45:17.839774Z" modified="2021-07-17T07:45:17.839787Z" visited="2021-07-17T07:45:17.839776Z">
+  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/NDV/Implicit_Model/manjaro-kde-21.1.3-minimal-210916-linux54.iso" added="2021-09-19T06:51:27.924078Z" modified="2021-09-19T06:51:27.924090Z" visited="2021-09-19T06:51:27.924079Z">
     <info>
       <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-bzip-compressed-tar"/>
+        <mime:mime-type type="application/x-cd-image"/>
         <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-07-17T07:45:17.839781Z" count="1"/>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-19T06:51:27.924084Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/NDV/Implicit_Model/manjaro-xfce-21.1.3-minimal-210916-linux54.iso" added="2021-09-19T06:51:40.280160Z" modified="2021-09-19T06:51:40.280172Z" visited="2021-09-19T06:51:40.280161Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-cd-image"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-19T06:51:40.280166Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/NDV/Implicit_Model/manjaro-gnome-21.1.3-minimal-210916-linux54.iso" added="2021-09-19T06:52:47.741041Z" modified="2021-09-19T06:52:47.741048Z" visited="2021-09-19T06:52:47.741042Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-cd-image"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-19T06:52:47.741045Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/NDV/Implicit_Model/VTDUNG.rar" added="2021-09-19T12:15:09.770556Z" modified="2021-09-19T12:15:17.553070Z" visited="2021-09-19T12:15:09.770557Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.rar"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-19T12:15:17.553069Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>

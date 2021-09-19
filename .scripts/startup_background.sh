@@ -2,7 +2,7 @@
 
 export DARKNESS_BACKGROUND=~/.scripts/bg/pq2.png
 
-export BRIGHTNESS_BACKGROUND=~/.scripts/bg/pq1.png
+export BRIGHTNESS_BACKGROUND=~/.scripts/bg/pq2.png
 export bgr=""
 export brightness=50%
 export time=`date +%H`

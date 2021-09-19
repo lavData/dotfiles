@@ -21,4 +21,6 @@ alias xmind="xmind-2020"
 alias gcc="/usr/bin/gcc"
 alias mvim="nvim"
 alias gvim="nvim"
+alias nvim="nvim"
 alias nnn="nnn | lolcat"
+

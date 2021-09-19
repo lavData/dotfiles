@@ -2,7 +2,7 @@
 colors:
   # Default colors
   primary:
-    background: '#3a3a3a'
+    background: '#303030'
     foreground: '#d0d0d0'
 
   # Normal colors
@@ -48,4 +48,4 @@ font:
 
   size: 12
 
-background_opacity: 1
+background_opacity: 0.4

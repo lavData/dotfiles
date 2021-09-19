@@ -8,7 +8,13 @@ export QT_IM_MODULE=ibus
 
 xset r rate 200 80
 #exec ~/.scripts/startup_background.sh
-exec i3
+if [[ -f /usr/bin/prime-offload ]]; then
+    /usr/bin/prime-offload
+fi
 
+exec i3
+if [[ -f /usr/bin/prime-switch ]]; then
+    sudo /usr/bin/prime-switch
+fi
 
 

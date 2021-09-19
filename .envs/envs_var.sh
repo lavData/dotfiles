@@ -9,5 +9,5 @@ export BROWSER="/usr/bin/brave"
 export LD_LIBRARY_PATH="/usr/lib:/opt/cuda/lib64${LD_LIBRARY_PATH:+:${LD_LIBRARY_PATH}}"
 
 export PATH="/usr/bin:${PATH}:${LD_LIBRARY_PATH}:/opt/cuda/bin:$HOME/.local/bin:$HOME/.bin:/usr/lib:/root/.local/share/gem/ruby/2.7.0/bin"
-export EDITOR=vim
+export EDITOR=/usr/bin/nvim
 export LC_ALL=en_US.UTF-8

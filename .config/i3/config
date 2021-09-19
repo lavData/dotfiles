@@ -61,6 +61,8 @@ bindsym Print                                                 exec --no-startup-
 bindsym $mod+Print                                            exec --no-startup-id maim --window $(xdotool getactivewindow) | xclip -selection clipboard -t image/png
 bindsym $mod+u 																								exec --no-startup-id maim --select | xclip -selection clipboard -t image/png
 #bindsym $mod+Shift+Print focus right
+#bindsym $mod + u                                              exec --no-startup-id maim --select "$HOME/Pictures/$(date).png"
+#bindsym $mod + u                                              exec --no-startup-id maim --select "~/Desktop/Math courses/Multivariate Calculus/Pictures/math$(ls ~/Desktop/Math courses/Multivariate Calculus/Pictures | wc -l)"
 
 # Move focused window
 bindsym $mod+Shift+h 																					move left
@@ -147,20 +149,21 @@ assign [class="TelegramDesktop"] $w8
 assign [class="zoom"] $ws4
 assign [class="wpspdf"] $ws6
 assign [class="calibre"] $ws5
-assign [title="Trello$"] $ws8
 assign [title="Microsoft Teams$"] $ws4
 assign [title="WPS PDF$"] $ws3
 assign [title="Discord$"] $ws4
+assign [title="Notion Desktop"] $ws8
 for_window [class="vim"] move to workspace $ws2
 for_window [title="calcurse"] move to workspace $ws8
 
+
 # Default workspace layout  
-#for_window [workspace=$ws10] layout tabbed
+#for_window [workspace=$ws10]                                     layout tabbed
 #for_window [workspace=$ws8] layout tabbed
-#for_window [workspace=$ws4] layout tabbed
-for_window [workspace=$ws5] layout tabbed
-for_window [workspace=$ws1] layout tabbed
-for_window [class=".*"] title_format "<span alpha='1'>%title</span>"
+#for_window [workspace=$ws2] 																			layout tabbed
+for_window [workspace=$ws5] 																			layout tabbed
+for_window [workspace=$ws1] 																			layout tabbed
+for_window [class=".*"] 																			    title_format "<span alpha='1'>%title</span>"
 
 # System controls
 bindsym --release $mod+x 																					exec slock 
@@ -317,11 +320,12 @@ exec $(cat ~/.screenlayout/layout.sh)
 # exec --no-startup-id blueman-applet
 # exec --no-startup-id nm-applet
 exec --no-startup-id calibre
-exec --no-startup-id trello 
+exec --no-startup-id notion-app
 exec --no-startup-id ibus-daemon -drx
 exec --no-startup-id lxsession
 # DMENU
 bindsym $mod+d exec dmenu_run 
+bindsym Super exec dmenu_run
 
 
 exec xset r rate 200 80
