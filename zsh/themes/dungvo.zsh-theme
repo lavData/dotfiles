@@ -1,20 +1,39 @@
 if [ $UID -eq 0 ]; then NCOLOR="red"; else NCOLOR="green"; fi
 
-if [[ $(git diff --stat) != '' ]]; then
-  GITCOLOR="red"
-else
-  GITCOLOR="green"
-fi
+function get_git_status() {
+	let GITCOLOR="white"	
+	if [ ! -d ".git" ] || [[ $(git diff --stat) -eq '' ]]; then
+  	GITCOLOR="green"
+	else
+  	GITCOLOR="red"
+	fi
+	echo $GITCOLOR
 
+} 
 
+function get_conda_envs_name() {
+	if [[ $CONDA_DEFAULT_ENV == "" ]]; then
+		echo ""
+	else
+		echo "  $CONDA_DEFAULT_ENV "
+	fi
+}
+
+DECOR1=
+DECOR2=
+DECOR3=
+
+DECOR4=
+#
+#%{$bg[white]%}
 PROMPT=' %{$fg[yellow]%}λ %{$fg[yellow]%}%c
-  %{$fg[$GITCOLOR]%}➤  %{$reset_color%}'
-RPROMPT='%{$fg[$GITCOLOR]%} %B $(git_prompt_info)%b %{$reset_color%}'
-
-ZSH_THEME_GIT_PROMPT_PREFIX=" "
-ZSH_THEME_GIT_PROMPT_SUFFIX=""
-ZSH_THEME_GIT_PROMPT_DIRTY=" "
-ZSH_THEME_GIT_PROMPT_CLEAN=" "
+  %{$fg[$get_git_status]%}➤  %{$reset_color%}'
+RPROMPT='%{$bg[white]%}%{$fg[black]%}%B$(git_prompt_info)%b%{$BG[128]%}%{$fg[yellow]%}$(get_conda_envs_name)%{$reset_color%}'
+#
+ZSH_THEME_GIT_PROMPT_PREFIX="  "
+ZSH_THEME_GIT_PROMPT_SUFFIX=" "
+ZSH_THEME_GIT_PROMPT_DIRTY=""
+ZSH_THEME_GIT_PROMPT_CLEAN=""
 
 # See https://geoff.greer.fm/lscolors/
 # export LSCOLORS="exfxcxdxbxbxbxbxbxbxbx"
