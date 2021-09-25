@@ -19,17 +19,10 @@ function get_conda_envs_name() {
 	fi
 }
 
-DECOR1=
-DECOR2=
-DECOR3=
-
-DECOR4=
-#
-#%{$bg[white]%}
 PROMPT=' %{$fg[yellow]%}λ %{$fg[yellow]%}%c
   %{$fg[$get_git_status]%}➤  %{$reset_color%}'
-RPROMPT='%{$bg[white]%}%{$fg[black]%}%B$(git_prompt_info)%b%{$BG[128]%}%{$fg[yellow]%}$(get_conda_envs_name)%{$reset_color%}'
-#
+RPROMPT='%{$bg[white]%}%{$fg[black]%}%B$(git_prompt_info)%b%{$BG[128]%}%{$fg[white]%}$(get_conda_envs_name)%{$reset_color%}'
+
 ZSH_THEME_GIT_PROMPT_PREFIX="  "
 ZSH_THEME_GIT_PROMPT_SUFFIX=" "
 ZSH_THEME_GIT_PROMPT_DIRTY=""
