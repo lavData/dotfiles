@@ -113,9 +113,13 @@ element-text {
     vertical-align:                 0.5;
     margin:                         0px 2.5px 0px 2.5px;
 }
+element-text, element-icon {
+    background-color: inherit;
+    text-color:       inherit;
+}
 
 element selected {
-    background-color:               @se;
+    background-color:               @bg;
     text-color:                     @fg;
 	border:							0px 0px 0px 2px;
     border-radius:                  0px;
