@@ -886,4 +886,54 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/dungvt/.scripts/bg/itadori1.jpg" added="2021-09-25T20:45:18.437947Z" modified="2021-09-25T20:45:18.437951Z" visited="2021-09-25T20:45:18.437948Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-25T20:45:18.437949Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/.scripts/bg/yami.jpg" added="2021-09-25T20:46:45.280712Z" modified="2021-09-25T20:46:45.280716Z" visited="2021-09-25T20:46:45.280713Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-25T20:46:45.280714Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/.scripts/bg/naruto.jpg" added="2021-09-25T20:49:38.899194Z" modified="2021-09-25T20:49:38.899198Z" visited="2021-09-25T20:49:38.899195Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-25T20:49:38.899196Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/.scripts/bg/yasuo1.png" added="2021-09-25T20:56:24.020311Z" modified="2021-09-25T20:56:24.020316Z" visited="2021-09-25T20:56:24.020312Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-25T20:56:24.020313Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/.scripts/bg/stretched-1920-1080-38003.jpg" added="2021-09-25T21:03:02.105151Z" modified="2021-09-25T21:03:02.105156Z" visited="2021-09-25T21:03:02.105152Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-25T21:03:02.105153Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>

@@ -8,7 +8,7 @@ export str=(`ls ~/.scripts/bg/*`)
 export max_num_of_images=${#str[*]}
 
 
-imgs_num=$(($RANDOM % 3))
+imgs_num=$(($RANDOM % $max_num_of_images))
 export imgs_path="${str[$imgs_num]}"
 
 
