@@ -1,19 +1,25 @@
 #!/bin/bash
 
-export DARKNESS_BACKGROUND=~/.scripts/bg/pq2.png
-
-export BRIGHTNESS_BACKGROUND=~/.scripts/bg/pq2.png
 export bgr=""
 export brightness=50%
 export time=`date +%H`
 
+export str=(`ls ~/.scripts/bg/*`)  
+export max_num_of_images=${#str[*]}
+
+
+imgs_num=$(($RANDOM % 3))
+export imgs_path="${str[$imgs_num]}"
+
+
+
 if [[ $time -ge 6 && $time -lt 17  ]]; 
 then
-	bgr=$BRIGHTNESS_BACKGROUND	
 	brightness=80%
 else
-	bgr=$DARKNESS_BACKGROUND
-	brightness=8%
+	brightness=40%
 fi
-feh --bg-fill $bgr
+echo $imgs_path
+feh --bg-fill ${imgs_path}
 brightnessctl s $brightness
+source ~/.config/polybar/cuts/scripts/pywal.sh $imgs_path
