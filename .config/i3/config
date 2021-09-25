@@ -297,7 +297,7 @@ set $beside sh ~/.scripts/beside.sh
 set $hdmi   sh ~/.scripts/hdmi.sh
 #set $native ~/.scripts/native.sh
 # exec_always $hdmi
-exec --no-startup-id ~/.scripts/hotswitch.sh
+#exec --no-startup-id ~/.scripts/hotswitch.sh
 
 # Xrandr Switch
 bindsym $mod+F10 exec $beside
@@ -311,7 +311,7 @@ exec --no-startup-id $background
 
 # Auto start
 
-exec $(cat ~/.screenlayout/layout.sh)
+#exec $(cat ~/.screenlayout/layout.sh)
 #move container to workspace number $ws10
 #move container to workspace number $1
 

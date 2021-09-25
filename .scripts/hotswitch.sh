@@ -11,7 +11,7 @@ MONITOR=eDP1
 function ActivateHDMI {
     echo "Switching to HDMI-1"
     #xrandr --output HDMI1 --mode 1920x1080 --dpi 160 --output eDP1 --mode 1920x1080 --right-of HDMI1
-    xrandr --output HDMI-1 --auto --left-of eDP-1
+    xrandr --output HDMI-1 --auto --right-of eDP-1
     MONITOR=HDMI-1
 }
 function DeactivateHDMI {
@@ -22,10 +22,10 @@ function DeactivateHDMI {
 
 # functions to check if HDMI is connected and in use
 function HDMIActive {
-    [ $MONITOR = "HDMI1" ]
+    [ $MONITOR = "HDMI-1" ]
 }
 function HDMIConnected {
-    ! xrandr | grep "^HDMI1" | grep disconnected
+    ! xrandr | grep "^HDMI-1" | grep disconnected
 }
 
 # actual script
