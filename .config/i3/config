@@ -326,9 +326,13 @@ exec --no-startup-id notion-app
 exec --no-startup-id ibus-daemon -drx
 exec --no-startup-id lxsession
 # DMENU
-bindsym $mod+d exec dmenu_run 
+#bindsym $mod+d exec dmenu_run 
 bindsym Super exec dmenu_run
 
+
+#DMenu run by polybar-themes
+set $applauncher sh ~/.config/polybar/cuts/scripts/launcher.sh
+bindsym $mod+d exec $applauncher
 
 exec xset r rate 200 80
 #move workspace to output
