@@ -591,13 +591,13 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/NDV/Implicit_Model/1904.01681.pdf" added="2021-09-16T06:58:07Z" modified="2021-09-19T12:24:04Z" visited="2021-09-16T06:58:07Z">
+  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/NDV/Implicit_Model/1904.01681.pdf" added="2021-09-16T06:58:07Z" modified="2021-09-26T15:06:31.958670Z" visited="2021-09-16T06:58:07Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/pdf"/>
         <bookmark:applications>
           <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-16T06:58:07Z" count="1"/>
-          <bookmark:application name="wpspdf" exec="&apos;wpspdf %u&apos;" modified="2021-09-19T12:24:04Z" count="2"/>
+          <bookmark:application name="wpspdf" exec="&apos;wpspdf %u&apos;" modified="2021-09-26T15:06:31.958664Z" count="3"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -844,12 +844,13 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/NDV/Implicit_Model/NeuralCDE/experiments/experiments.py" added="2021-09-25T19:16:33.236066Z" modified="2021-09-25T19:16:33.236082Z" visited="2021-09-25T19:16:33.236068Z">
+  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/NDV/Implicit_Model/NeuralCDE/experiments/experiments.py" added="2021-09-25T19:16:33.236066Z" modified="2021-09-27T08:43:50.692842Z" visited="2021-09-25T19:16:33.236068Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-python"/>
         <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-25T19:16:33.236074Z" count="1"/>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-27T08:43:50.692838Z" count="4"/>
+          <bookmark:application name="Sublime Text" exec="&apos;subl %u&apos;" modified="2021-09-27T08:43:23.324307Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -904,12 +905,13 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/dungvt/Documents/OOP.pptx" added="2021-09-26T01:38:50.778201Z" modified="2021-09-26T01:38:50.778204Z" visited="2021-09-26T01:38:50.778201Z">
+  <bookmark href="file:///home/dungvt/Documents/OOP.pptx" added="2021-09-26T01:38:50.778201Z" modified="2021-09-26T14:53:17.912969Z" visited="2021-09-26T01:38:50.778201Z">
     <info>
       <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/octet-stream"/>
+        <mime:mime-type type="application/wps-office.pptx"/>
         <bookmark:applications>
           <bookmark:application name="wpp" exec="&apos;wpp %u&apos;" modified="2021-09-26T01:38:50.778202Z" count="1"/>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-26T14:53:17.912968Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -1145,6 +1147,239 @@
         <mime:mime-type type="image/png"/>
         <bookmark:applications>
           <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-26T13:23:49.687534Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Downloads/Dissecting%20Neural%20ODEs.pdf" added="2021-09-26T15:07:46.417788Z" modified="2021-09-26T15:08:05.272234Z" visited="2021-09-26T15:07:46.417790Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-26T15:07:46.417795Z" count="1"/>
+          <bookmark:application name="wpspdf" exec="&apos;wpspdf %u&apos;" modified="2021-09-26T15:08:05.272229Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/test.py" added="2021-09-27T02:22:39.122497Z" modified="2021-09-27T02:22:39.122510Z" visited="2021-09-27T02:22:39.122499Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;subl %u&apos;" modified="2021-09-27T02:22:39.122503Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Downloads/trng1.xlsx" added="2021-09-27T05:06:37.216066Z" modified="2021-09-27T05:20:15.279891Z" visited="2021-09-27T05:06:37.216067Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/wps-office.xlsx"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-27T05:20:15.279889Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Documents/19120202.docx" added="2021-09-27T07:47:25.530706Z" modified="2021-09-27T07:47:25.530717Z" visited="2021-09-27T07:47:25.530707Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="wps" exec="&apos;wps %u&apos;" modified="2021-09-27T07:47:25.530711Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/NDV/Implicit_Model/NeuralCDE/experiments/common.py" added="2021-09-27T08:43:23.324288Z" modified="2021-09-27T08:43:23.324294Z" visited="2021-09-27T08:43:23.324289Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;subl %u&apos;" modified="2021-09-27T08:43:23.324291Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/NDV/Implicit_Model/NeuralCDE/experiments/logfile" added="2021-09-27T08:43:23.324317Z" modified="2021-09-27T08:43:23.324319Z" visited="2021-09-27T08:43:23.324317Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;subl %u&apos;" modified="2021-09-27T08:43:23.324318Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/NDV/Implicit_Model/NeuralCDE/experiments/README.md" added="2021-09-27T08:43:23.324326Z" modified="2021-09-27T08:43:23.324330Z" visited="2021-09-27T08:43:23.324327Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;subl %u&apos;" modified="2021-09-27T08:43:23.324328Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/NDV/Implicit_Model/NeuralCDE/experiments/sepsis.py" added="2021-09-27T08:43:23.324336Z" modified="2021-09-27T08:43:23.324339Z" visited="2021-09-27T08:43:23.324336Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;subl %u&apos;" modified="2021-09-27T08:43:23.324337Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/NDV/Implicit_Model/NeuralCDE/experiments/parse_results.py" added="2021-09-27T08:43:23.324355Z" modified="2021-09-27T08:43:23.324359Z" visited="2021-09-27T08:43:23.324356Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;subl %u&apos;" modified="2021-09-27T08:43:23.324357Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/NDV/Implicit_Model/NeuralCDE/experiments/uea.py" added="2021-09-27T08:43:23.324365Z" modified="2021-09-27T08:43:23.324368Z" visited="2021-09-27T08:43:23.324366Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;subl %u&apos;" modified="2021-09-27T08:43:23.324366Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/NDV/Implicit_Model/NeuralCDE/experiments/speech_commands.py" added="2021-09-27T08:43:23.324373Z" modified="2021-09-27T08:43:23.324376Z" visited="2021-09-27T08:43:23.324374Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;subl %u&apos;" modified="2021-09-27T08:43:23.324375Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/NDV/Implicit_Model/NeuralCDE/experiments/datasets/__init__.py" added="2021-09-27T08:47:53.504604Z" modified="2021-09-27T08:47:53.504611Z" visited="2021-09-27T08:47:53.504605Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;subl %u&apos;" modified="2021-09-27T08:47:53.504607Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/NDV/Implicit_Model/NeuralCDE/experiments/datasets/common.py" added="2021-09-27T08:48:01.084651Z" modified="2021-09-27T08:48:01.084656Z" visited="2021-09-27T08:48:01.084652Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;subl %u&apos;" modified="2021-09-27T08:48:01.084654Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/NDV/Implicit_Model/NeuralCDE/experiments/datasets/sepsis.py" added="2021-09-27T08:48:01.084668Z" modified="2021-09-27T08:48:01.084672Z" visited="2021-09-27T08:48:01.084669Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;subl %u&apos;" modified="2021-09-27T08:48:01.084670Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/NDV/Implicit_Model/NeuralCDE/experiments/datasets/uea.py" added="2021-09-27T08:48:01.084679Z" modified="2021-09-27T08:48:01.084682Z" visited="2021-09-27T08:48:01.084679Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;subl %u&apos;" modified="2021-09-27T08:48:01.084680Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/NDV/Implicit_Model/NeuralCDE/experiments/datasets/speech_commands.py" added="2021-09-27T08:48:01.084689Z" modified="2021-09-27T08:48:01.084692Z" visited="2021-09-27T08:48:01.084689Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;subl %u&apos;" modified="2021-09-27T08:48:01.084690Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Desktop/NeuralCDE.ipynb" added="2021-09-27T08:59:45.851298Z" modified="2021-09-27T08:59:58.691744Z" visited="2021-09-27T08:59:45.851299Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ipynb+json"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-27T08:59:58.691738Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Desktop/computer.png" added="2021-09-27T12:34:06.151347Z" modified="2021-09-27T12:34:24.037804Z" visited="2021-09-27T12:34:06.151349Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-27T12:34:06.151354Z" count="1"/>
+          <bookmark:application name="wps" exec="&apos;wps %u&apos;" modified="2021-09-27T12:34:24.037798Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Desktop/server1.jpg" added="2021-09-27T12:37:42.583566Z" modified="2021-09-27T12:37:54.566654Z" visited="2021-09-27T12:37:42.583567Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-27T12:37:42.583572Z" count="1"/>
+          <bookmark:application name="wps" exec="&apos;wps %u&apos;" modified="2021-09-27T12:37:54.566649Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Desktop/%5BAI%20Residency%5D%20-%20English%20Courses/450119_This_PC_(1)_haidn6.rdp" added="2021-09-27T14:38:35.915864Z" modified="2021-09-27T14:38:35.915876Z" visited="2021-09-27T14:38:35.915866Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-remmina"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-27T14:38:35.915870Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/NDV/Implicit_Model/NeuralCDE/requirements.txt" added="2021-09-27T14:51:24.304600Z" modified="2021-09-27T14:51:24.304612Z" visited="2021-09-27T14:51:24.304601Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;subl %u&apos;" modified="2021-09-27T14:51:24.304606Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Desktop/%5BAI%20Residency%5D%20-%20English%20Courses/stretched-1920-1080-1042353.jpg" added="2021-09-27T16:18:52.579119Z" modified="2021-09-27T16:18:52.579133Z" visited="2021-09-27T16:18:52.579121Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-27T16:18:52.579127Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Desktop/%5BAI%20Residency%5D%20-%20English%20Courses/stone2.jpg" added="2021-09-27T16:19:15.820833Z" modified="2021-09-27T16:19:15.820847Z" visited="2021-09-27T16:19:15.820835Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-27T16:19:15.820840Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>

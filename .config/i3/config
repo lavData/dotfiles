@@ -277,7 +277,7 @@ client.unfocused        $dark    $dark       $lighter   $yellow    $dark
 client.focused_inactive $dark    $dark       $lighter   $yellow    $dark 
 client.urgent           $yellow  $yellow     $lighter   $green     $yellow
 
-
+client.background       #ffffff
 
 #increase and decrease brightness of window
 set $brightnessup sh ~/.scripts/brightness_up.sh
