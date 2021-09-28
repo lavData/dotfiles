@@ -1182,12 +1182,13 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/dungvt/Documents/19120202.docx" added="2021-09-27T07:47:25.530706Z" modified="2021-09-27T07:47:25.530717Z" visited="2021-09-27T07:47:25.530707Z">
+  <bookmark href="file:///home/dungvt/Documents/19120202.docx" added="2021-09-27T07:47:25.530706Z" modified="2021-09-27T17:46:32.345722Z" visited="2021-09-27T07:47:25.530707Z">
     <info>
       <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/octet-stream"/>
+        <mime:mime-type type="application/wps-office.docx"/>
         <bookmark:applications>
           <bookmark:application name="wps" exec="&apos;wps %u&apos;" modified="2021-09-27T07:47:25.530711Z" count="1"/>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-27T17:46:32.345719Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
