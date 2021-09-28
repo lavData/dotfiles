@@ -24,7 +24,7 @@ if time > 5 and time < 18:
     which = ''
 else:
     which = ''
-sys_res=f"{which} {main_weather}, {itemp}: {temp}°C, {icloud}: {cloud}%, {ihumidity}: {humidity}%"
+sys_res=f"{which} {main_weather} {itemp}: {temp}°C  {icloud}: {cloud}%  {ihumidity}: {humidity}%"
 
 
 print(sys_res)
