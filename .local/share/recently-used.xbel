@@ -14,83 +14,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/HTT/Autoencoding%20Variational%20Bayes/Variational%20Inference:%20A%20Review%20for%20Statisticians.pdf" added="2021-08-23T12:06:04Z" modified="2021-08-28T13:15:05Z" visited="2021-08-23T12:06:04Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/pdf"/>
-        <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-23T12:06:04Z" count="1"/>
-          <bookmark:application name="wpspdf" exec="&apos;wpspdf %u&apos;" modified="2021-08-28T13:15:05Z" count="5"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/HTT/Autoencoding%20Variational%20Bayes/Implementation/train-images-idx3-ubyte.gz" added="2021-08-28T17:31:14Z" modified="2021-08-28T17:31:14Z" visited="2021-08-28T17:31:14Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/gzip"/>
-        <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-28T17:31:14Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/HTT/Autoencoding%20Variational%20Bayes/Implementation/Data/archive.zip" added="2021-08-28T17:38:12Z" modified="2021-08-28T17:38:12Z" visited="2021-08-28T17:38:12Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-28T17:38:12Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/HTT/Autoencoding%20Variational%20Bayes/Implementation/vae.py" added="2021-08-28T18:19:27Z" modified="2021-08-28T18:21:56Z" visited="2021-08-28T18:19:27Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="text/x-python"/>
-        <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-28T18:21:56Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/HTT/Autoencoding%20Variational%20Bayes/Implementation/train.py" added="2021-08-28T18:19:27Z" modified="2021-08-28T18:21:56Z" visited="2021-08-28T18:19:27Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="text/x-python"/>
-        <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-28T18:21:56Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/HTT/Autoencoding%20Variational%20Bayes/Implementation/data.py" added="2021-08-28T18:19:27Z" modified="2021-08-28T18:21:56Z" visited="2021-08-28T18:19:27Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="text/x-python"/>
-        <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-28T18:21:56Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
   <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/HTT/Autoencoding%20Variational%20Bayes/Implementation/Data/mnist.mat" added="2021-08-28T18:19:33Z" modified="2021-08-31T14:53:15Z" visited="2021-08-28T18:19:33Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/octet-stream"/>
         <bookmark:applications>
           <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-31T14:53:15Z" count="4"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/HTT/Autoencoding%20Variational%20Bayes/Implementation/Data" added="2021-08-28T18:23:00Z" modified="2021-08-28T18:23:00Z" visited="2021-08-28T18:23:00Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="inode/directory"/>
-        <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-28T18:23:00Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -1381,6 +1310,36 @@
         <mime:mime-type type="image/jpeg"/>
         <bookmark:applications>
           <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-27T16:19:15.820840Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Desktop/%5BAI%20Residency%5D%20-%20English%20Courses/city.list.json.gz" added="2021-09-28T18:11:23.393594Z" modified="2021-09-28T18:11:23.393609Z" visited="2021-09-28T18:11:23.393595Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/gzip"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-28T18:11:23.393601Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Desktop/weather_16.json.gz" added="2021-09-28T18:37:18.228711Z" modified="2021-09-28T18:37:18.228723Z" visited="2021-09-28T18:37:18.228713Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/gzip"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-28T18:37:18.228717Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Desktop/weather_16.json" added="2021-09-28T18:38:24.451562Z" modified="2021-09-28T18:47:08.081353Z" visited="2021-09-28T18:38:24.451563Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/json"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-28T18:47:08.081347Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>
