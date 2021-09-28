@@ -6,7 +6,9 @@ API_KEY=api.get_api()
 CITY_ID="1566083"
 UNIT_KEY="Metric"
 url=f"http://api.openweathermap.org/data/2.5/weather?id={CITY_ID}&appid={API_KEY}&units={UNIT_KEY}"
-
+if API_KEY is None:
+    print("Invalid API keys")
+    exit()
 
 res = requests.get(url).json()
 icloud=""
