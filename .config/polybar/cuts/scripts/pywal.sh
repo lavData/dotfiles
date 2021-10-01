@@ -6,7 +6,7 @@ RFILE="$HOME/.config/polybar/cuts/scripts/rofi/colors.rasi"
 
 # Get colors
 pywal_get() {
-	wal -i "$1" -q -t
+	wal -i "$1" -q
 }
 
 # Change colors
@@ -47,7 +47,7 @@ if [[ -f "/usr/bin/wal" ]]; then
 		BG=${BGC:1}
 		FGC=`printf "%s\n" "$foreground"`
 		FG=${FGC:1}
-		AC=`printf "%s\n" "$color1"`
+		AC=`printf "%s\n" "$color10"`
 
 		change_color
 	else

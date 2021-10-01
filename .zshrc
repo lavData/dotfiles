@@ -37,3 +37,5 @@ else
     export PATH="/opt/miniconda3/bin:$PATH"
 fi
 
+#(wal -r &)
+(cat ~/.cache/wal/sequences)

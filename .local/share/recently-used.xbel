@@ -1463,4 +1463,14 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/dungvt/Desktop/Hyper-3.1.3.AppImage" added="2021-10-01T12:17:13.958382Z" modified="2021-10-01T12:17:13.958392Z" visited="2021-10-01T12:17:13.958383Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.appimage"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-10-01T12:17:13.958387Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>
