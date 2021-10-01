@@ -24,57 +24,6 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///run/media/dungvt/Coding/Python-Data-Science-Handbook.-Essential-Tools-for-Working-with-Data-by-Jake-VanderPlas-z-lib.org.pdf" added="2021-08-30T11:30:59Z" modified="2021-08-30T11:30:59Z" visited="2021-08-30T11:30:59Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/pdf"/>
-        <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-30T11:30:59Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///run/media/dungvt/Coding/Draft.pdf" added="2021-08-30T13:15:46Z" modified="2021-08-30T13:15:46Z" visited="2021-08-30T13:15:46Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/pdf"/>
-        <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-30T13:15:46Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///run/media/dungvt/Coding/Copy-of-DANH-S%C3%81CH-NH%C3%82N-VI%C3%8AN-THAM-GIA-CH%C3%8DCH-VACCINE-C%E1%BB%98NG-%C4%90%E1%BB%92NG-V%C3%80-%C4%90I-NGO%E1%BA%A0I-VI%E1%BB%86N-1.xlsx" added="2021-08-31T06:50:19Z" modified="2021-08-31T06:50:19Z" visited="2021-08-31T06:50:19Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/wps-office.xlsx"/>
-        <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-31T06:50:19Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/dungvt/Desktop/TrangNDP.xlsx" added="2021-08-31T07:23:12Z" modified="2021-08-31T07:23:32Z" visited="2021-08-31T07:23:12Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/wps-office.xlsx"/>
-        <bookmark:applications>
-          <bookmark:application name="et" exec="&apos;et %u&apos;" modified="2021-08-31T07:23:12Z" count="1"/>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-31T07:23:32Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/HTT/Autoencoding%20Variational%20Bayes/Implementation/Data/mnist.zip" added="2021-08-31T08:05:30Z" modified="2021-08-31T08:05:30Z" visited="2021-08-31T08:05:30Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-31T08:05:30Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
   <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/HTT/Autoencoding%20Variational%20Bayes/Implementation/Data/mnist-original.mat.zip" added="2021-08-31T13:42:39Z" modified="2021-08-31T13:43:22Z" visited="2021-08-31T13:42:39Z">
     <info>
       <metadata owner="http://freedesktop.org">
@@ -1490,6 +1439,26 @@
         <bookmark:applications>
           <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-30T09:35:42.172283Z" count="1"/>
           <bookmark:application name="Remmina" exec="&apos;org.remmina.Remmina %u&apos;" modified="2021-09-30T09:36:29.847265Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Desktop/drive-download-20210930T142417Z-001.zip" added="2021-09-30T14:26:47.825055Z" modified="2021-09-30T14:26:47.825059Z" visited="2021-09-30T14:26:47.825055Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-30T14:26:47.825057Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Desktop/covid.zip" added="2021-10-01T08:14:07.024088Z" modified="2021-10-01T08:16:19.221646Z" visited="2021-10-01T08:14:07.024106Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-10-01T08:16:19.221643Z" count="3"/>
         </bookmark:applications>
       </metadata>
     </info>
