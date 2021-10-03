@@ -14,26 +14,6 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///run/media/dungvt/Coding/Slides-20210317-20210902T082144Z-001.zip" added="2021-09-02T08:20:35Z" modified="2021-09-02T08:20:35Z" visited="2021-09-02T08:20:35Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-02T08:20:35Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///run/media/dungvt/Coding/Final_Exam_2021.pdf" added="2021-09-02T12:06:46Z" modified="2021-09-02T12:06:46Z" visited="2021-09-02T12:06:46Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/pdf"/>
-        <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-02T12:06:46Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
   <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/HTT/Autoencoding%20Variational%20Bayes/Implementation/Data/fashion-mnist_train.csv.zip" added="2021-09-03T08:08:44Z" modified="2021-09-03T08:08:44Z" visited="2021-09-03T08:08:44Z">
     <info>
       <metadata owner="http://freedesktop.org">
@@ -1449,6 +1429,27 @@
         <mime:mime-type type="application/wps-office.xlsx"/>
         <bookmark:applications>
           <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-10-03T07:17:11.960075Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Desktop/243487708_1770390553349172_7896954930541800211_n.jpg" added="2021-10-03T13:28:55.482674Z" modified="2021-10-03T13:28:55.482681Z" visited="2021-10-03T13:28:55.482675Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-10-03T13:28:55.482678Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/NDV/Implicit_Model/Neural%20Controlled%20Differential%20Equations%20for%20Irregular%20Time%20Series.pdf" added="2021-10-03T16:21:34.556933Z" modified="2021-10-03T16:22:15.154119Z" visited="2021-10-03T16:21:34.556935Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-10-03T16:21:34.556941Z" count="1"/>
+          <bookmark:application name="wpspdf" exec="&apos;wpspdf %u&apos;" modified="2021-10-03T16:22:15.154113Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
