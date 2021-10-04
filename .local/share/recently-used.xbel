@@ -14,36 +14,6 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/HTT/Autoencoding%20Variational%20Bayes/Implementation/Data/fashion-mnist_train.csv.zip" added="2021-09-03T08:08:44Z" modified="2021-09-03T08:08:44Z" visited="2021-09-03T08:08:44Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-03T08:08:44Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/HTT/Autoencoding%20Variational%20Bayes/Implementation/Data/fashion-mnist_test.csv.zip" added="2021-09-03T08:32:46Z" modified="2021-09-03T08:32:46Z" visited="2021-09-03T08:32:46Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-03T08:32:46Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/HTT/Autoencoding%20Variational%20Bayes/Implementation/Data/legend.py" added="2021-09-03T08:54:43Z" modified="2021-09-03T08:54:43Z" visited="2021-09-03T08:54:43Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="text/x-python"/>
-        <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-03T08:54:43Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
   <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/HTT/Autoencoding%20Variational%20Bayes/Implementation/VAE_reduce_noise/Visualization.ipynb" added="2021-09-03T11:49:20Z" modified="2021-09-03T11:49:20Z" visited="2021-09-03T11:49:20Z">
     <info>
       <metadata owner="http://freedesktop.org">
@@ -1450,6 +1420,36 @@
         <bookmark:applications>
           <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-10-03T16:21:34.556941Z" count="1"/>
           <bookmark:application name="wpspdf" exec="&apos;wpspdf %u&apos;" modified="2021-10-03T16:22:15.154113Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/NDV/Implicit_Model/NeuralCDE/experiments/Experiments.ipynb" added="2021-10-04T06:59:02.279435Z" modified="2021-10-04T06:59:02.279439Z" visited="2021-10-04T06:59:02.279435Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ipynb+json"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-10-04T06:59:02.279437Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Desktop/Experiments.ipynb" added="2021-10-04T06:59:35.877260Z" modified="2021-10-04T06:59:35.877276Z" visited="2021-10-04T06:59:35.877261Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ipynb+json"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-10-04T06:59:35.877267Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/NDV/Implicit_Model/Neural%20Rough%20Differential%20Equations%20for%20Long%20Time%20Series.pdf" added="2021-10-04T10:01:25.382215Z" modified="2021-10-04T10:01:25.382229Z" visited="2021-10-04T10:01:25.382218Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-10-04T10:01:25.382223Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
