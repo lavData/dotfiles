@@ -162,7 +162,7 @@ for_window [title="calcurse"] move to workspace $ws8
 # Default workspace layout  
 #for_window [workspace=$ws10]                                     layout tabbed
 #for_window [workspace=$ws8] layout tabbed
-#for_window [workspace=$ws2] 																			layout tabbed
+for_window [workspace=$ws2] 																			floating enable
 for_window [workspace=$ws5] 																			layout tabbed
 for_window [workspace=$ws1] 																			layout tabbed
 for_window [class=".*"] 																			    title_format "<span alpha='1'>%title</span>"

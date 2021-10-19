@@ -9,22 +9,30 @@ url=f"http://api.openweathermap.org/data/2.5/weather?id={CITY_ID}&appid={API_KEY
 if API_KEY is None:
     print("Invalid API keys")
     exit()
+try:
 
-res = requests.get(url).json()
-icloud=""
-ihumidity=""
-itemp=""
-main_weather = res["weather"][0]["description"].capitalize() 
-temp = res["main"]["temp"]
-humidity = res["main"]["humidity"]
-cloud = res["clouds"]["all"]
+    res = requests.get(url).json()
+    icloud=""
+    ihumidity=""
+    itemp=""
+    main_weather = res["weather"][0]["description"].capitalize() 
+    temp = res["main"]["temp"]
+    humidity = res["main"]["humidity"]
+    cloud = res["clouds"]["all"]
 
-time = int(datetime.datetime.now().strftime("%H"))
-if time > 5 and time < 18: 
-    which = ''
-else:
-    which = ''
-sys_res=f"{which} {main_weather} {itemp}: {temp}°C  {icloud}: {cloud}%  {ihumidity}: {humidity}%"
+    time = int(datetime.datetime.now().strftime("%H"))
+    if time > 5 and time < 18: 
+        which = ''
+    else:
+        which = ''
+    sys_res=f"{which} {main_weather} {itemp}: {temp}°C  {icloud}: {cloud}%  {ihumidity}: {humidity}%"
+except ConnectionError as ce:
+    print("Connect to a network!")
+    
 
 
+
+
+print(sys_res)
+print(sys_res)
 print(sys_res)
