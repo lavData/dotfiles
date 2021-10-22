@@ -3,126 +3,13 @@
       xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
       xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
 >
-  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/NDV/Implicit_Model/NeuralODEProcesses.pdf" added="2021-09-14T14:54:57Z" modified="2021-09-19T12:24:04Z" visited="2021-09-14T14:54:57Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/pdf"/>
-        <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-14T14:54:57Z" count="1"/>
-          <bookmark:application name="wpspdf" exec="&apos;wpspdf %u&apos;" modified="2021-09-19T12:24:04Z" count="3"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/NDV/Implicit_Model/NeuralODEs.pdf" added="2021-09-14T14:56:37Z" modified="2021-09-19T12:24:04Z" visited="2021-09-14T14:56:37Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/pdf"/>
-        <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-14T14:56:37Z" count="1"/>
-          <bookmark:application name="wpspdf" exec="&apos;wpspdf %u&apos;" modified="2021-09-19T12:24:04Z" count="3"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/NDV/Implicit_Model/1904.01681.pdf" added="2021-09-16T06:58:07Z" modified="2021-09-26T15:06:31.958670Z" visited="2021-09-16T06:58:07Z">
+  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/NDV/Implicit_Model/1904.01681.pdf" added="2021-09-16T06:58:07Z" modified="2021-10-21T15:00:04.569877Z" visited="2021-09-16T06:58:07Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/pdf"/>
         <bookmark:applications>
           <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-16T06:58:07Z" count="1"/>
-          <bookmark:application name="wpspdf" exec="&apos;wpspdf %u&apos;" modified="2021-09-26T15:06:31.958664Z" count="3"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/dungvt/Downloads/letmein.jpeg" added="2021-09-17T03:34:38Z" modified="2021-09-17T16:23:58Z" visited="2021-09-17T03:34:38Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/jpeg"/>
-        <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-17T16:23:58Z" count="3"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/NDV/Implicit_Model/Neural%20Controlled%20Differential%20Equations.pdf" added="2021-09-18T16:19:32Z" modified="2021-09-19T12:24:04Z" visited="2021-09-18T16:19:32Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/pdf"/>
-        <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-18T16:19:32Z" count="1"/>
-          <bookmark:application name="wpspdf" exec="&apos;wpspdf %u&apos;" modified="2021-09-19T12:24:04Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/NDV/Implicit_Model/manjaro-kde-21.1.3-minimal-210916-linux54.iso" added="2021-09-19T06:51:27Z" modified="2021-09-19T06:51:27Z" visited="2021-09-19T06:51:27Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-cd-image"/>
-        <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-19T06:51:27Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/NDV/Implicit_Model/manjaro-xfce-21.1.3-minimal-210916-linux54.iso" added="2021-09-19T06:51:40Z" modified="2021-09-19T06:51:40Z" visited="2021-09-19T06:51:40Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-cd-image"/>
-        <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-19T06:51:40Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/NDV/Implicit_Model/manjaro-gnome-21.1.3-minimal-210916-linux54.iso" added="2021-09-19T06:52:47Z" modified="2021-09-19T06:52:47Z" visited="2021-09-19T06:52:47Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-cd-image"/>
-        <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-19T06:52:47Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/NDV/Implicit_Model/VTDUNG.rar" added="2021-09-19T12:15:09Z" modified="2021-09-19T12:15:17Z" visited="2021-09-19T12:15:09Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/vnd.rar"/>
-        <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-19T12:15:17Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/dungvt/Desktop/xulrunner-41.0.2.en-US.linux-x86_64.tar.bz2" added="2021-09-20T12:48:40Z" modified="2021-09-20T12:48:40Z" visited="2021-09-20T12:48:40Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-bzip-compressed-tar"/>
-        <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-20T12:48:40Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/dungvt/Desktop/%5BAI%20Residency%5D%20-%20English%20Courses/SESSION%2015-16-17%20-%20HIGH%20FLYERS%20(1).pdf" added="2021-09-21T02:38:54Z" modified="2021-09-21T02:38:54Z" visited="2021-09-21T02:38:54Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/pdf"/>
-        <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-21T02:38:54Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/NDV/Implicit_Model/ANODEs%20notes.pdf" added="2021-09-21T02:40:25Z" modified="2021-09-21T02:40:25Z" visited="2021-09-21T02:40:25Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/pdf"/>
-        <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-09-21T02:40:25Z" count="1"/>
+          <bookmark:application name="wpspdf" exec="&apos;wpspdf %u&apos;" modified="2021-10-21T15:00:04.569872Z" count="4"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -1830,6 +1717,107 @@
         <mime:mime-type type="application/pdf"/>
         <bookmark:applications>
           <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-10-18T11:55:00.344646Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Desktop/cifar-10-python.tar.gz" added="2021-10-20T11:33:54.820231Z" modified="2021-10-20T11:33:54.820247Z" visited="2021-10-20T11:33:54.820233Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-10-20T11:33:54.820239Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/NDV/Implicit_Model/Neural_ODE/data/cifar-10-python.tar.gz" added="2021-10-20T11:34:28.139897Z" modified="2021-10-20T11:42:32.641229Z" visited="2021-10-20T11:34:28.139898Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-10-20T11:42:32.641225Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Desktop/Duong_Nam_Hai.pdf" added="2021-10-21T12:20:35.847307Z" modified="2021-10-21T12:20:55.772304Z" visited="2021-10-21T12:20:35.847308Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-10-21T12:20:55.772300Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Desktop/toan-to-hop_le-van-luyen_chuong-2_ham-sinh-cuuduongthancong.com.pdf" added="2021-10-21T12:45:46.678233Z" modified="2021-10-21T12:45:46.678244Z" visited="2021-10-21T12:45:46.678234Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-10-21T12:45:46.678238Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Desktop/namvung.zip.txt" added="2021-10-21T13:06:40.296015Z" modified="2021-10-21T13:06:40.296027Z" visited="2021-10-21T13:06:40.296017Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-10-21T13:06:40.296021Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/NDV/Implicit_Model/Draft.pdf" added="2021-10-21T14:41:55.323897Z" modified="2021-10-21T14:41:55.323902Z" visited="2021-10-21T14:41:55.323898Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-10-21T14:41:55.323900Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/NDV/Implicit_Model/Dung_T__VO_Resume.pdf" added="2021-10-21T14:42:44.945282Z" modified="2021-10-21T14:42:44.945294Z" visited="2021-10-21T14:42:44.945283Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-10-21T14:42:44.945288Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/dungvt/Coding/Python/AI/ML/Paper/FPT_AI_Residency/NDV/Implicit_Model/1910.05513.pdf" added="2021-10-21T15:00:19.981884Z" modified="2021-10-22T13:37:10.992859Z" visited="2021-10-21T15:00:19.981886Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-10-21T15:00:19.981890Z" count="1"/>
+          <bookmark:application name="wpspdf" exec="&apos;wpspdf %u&apos;" modified="2021-10-22T13:37:10.992854Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Desktop/Recruit_ECML_MJU.pdf" added="2021-10-22T08:14:42.903672Z" modified="2021-10-22T08:14:42.903684Z" visited="2021-10-22T08:14:42.903674Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-10-22T08:14:42.903678Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Desktop/fontello-9ca18821.zip" added="2021-10-22T13:01:33.042127Z" modified="2021-10-22T13:01:33.042138Z" visited="2021-10-22T13:01:33.042129Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-10-22T13:01:33.042132Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>

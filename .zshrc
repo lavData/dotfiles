@@ -23,6 +23,7 @@ source ~/.scripts/push_condition_test.sh
 source ~/zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 source ~/zsh/zsh-completions/zsh-completions.plugin.zsh
 source ~/.tokens/token.sh
+source ~/.envs/lficon.sh
 
 
 
