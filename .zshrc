@@ -20,12 +20,11 @@ source $ZSH/oh-my-zsh.sh
 source ~/.aliases/alias.sh
 source ~/.scripts/extract.sh
 source ~/.scripts/push_condition_test.sh
+source ~/.config/lf/lfcd.sh
 source ~/zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 source ~/zsh/zsh-completions/zsh-completions.plugin.zsh
 source ~/.tokens/token.sh
 source ~/.envs/lficon.sh
-
-
 
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
@@ -38,5 +37,10 @@ else
     export PATH="/opt/miniconda3/bin:$PATH"
 fi
 
+# LF File Manager
+
+
+
 #(wal -r &)
 (cat ~/.cache/wal/sequences)
+
