@@ -24,7 +24,6 @@ set scrolloff 10
 
 
 # use enter for shell commands
-map <enter> shell
 
 # execute current file (must be executable)
 map x $$f
@@ -46,6 +45,7 @@ cmd open ${{
     esac
 }}
 
+map <enter> :open
 # define a custom 'rename' command without prompt for overwrite
 # cmd rename %[ -e $1 ] && printf "file exists" || mv $f $1
 # map r push :rename<space>
