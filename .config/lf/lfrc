@@ -45,7 +45,15 @@ cmd open ${{
     esac
 }}
 
+cmd mkdir ${{
+		printf "Enter name of dir: "
+		read ans
+		mkdir $ans
+}}
+
 map <enter> :open
+map <esc> :quit
+map mk :mkdir
 # define a custom 'rename' command without prompt for overwrite
 # cmd rename %[ -e $1 ] && printf "file exists" || mv $f $1
 # map r push :rename<space>
