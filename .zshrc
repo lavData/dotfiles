@@ -17,10 +17,10 @@ ZSH_THEME="dungvo"
 plugins=(git zsh-autosuggestions)
 source ~/.envs/envs_var.sh
 source $ZSH/oh-my-zsh.sh
+source ~/.config/lf/lfcd.sh
 source ~/.aliases/alias.sh
 source ~/.scripts/extract.sh
 source ~/.scripts/push_condition_test.sh
-source ~/.config/lf/lfcd.sh
 source ~/zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 source ~/zsh/zsh-completions/zsh-completions.plugin.zsh
 source ~/.tokens/token.sh
