@@ -16,4 +16,4 @@ alias gvim="nvim"
 alias nvim="nvim"
 alias lf='lfcd'
 
-alias ls="lfcd"
+#alias ls="lfcd"

@@ -1,3 +1,5 @@
+
+  
 #!/usr/bin/env bash
 
 # Color files
@@ -19,7 +21,6 @@ change_color() {
 	# rofi
 	cat > $RFILE <<- EOF
 	/* colors */
-
 	* {
 	  al:   #00000000;
 	  bg:   #${BG}BF;

@@ -1822,4 +1822,24 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/dungvt/Desktop/Auto-Encoding%20Variational%20Bayes.pdf" added="2021-10-23T09:23:12.183155Z" modified="2021-10-23T09:23:12.183168Z" visited="2021-10-23T09:23:12.183156Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-10-23T09:23:12.183162Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dungvt/Documents/TrangNDP.pdf" added="2021-10-23T09:32:33.737415Z" modified="2021-10-23T09:32:33.737419Z" visited="2021-10-23T09:32:33.737416Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-10-23T09:32:33.737417Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>
