@@ -45,9 +45,9 @@ if [[ -f "/usr/bin/wal" ]]; then
 
 		BGC=`printf "%s\n" "$background"`
 		BG=${BGC:1}
-		FGC=`printf "%s\n" "$foreground"`
+		FGC=`printf "%s\n" "$color2"`
 		FG=${FGC:1}
-		AC=`printf "%s\n" "$color10"`
+		AC=`printf "%s\n" "$color3"`
 
 		change_color
 	else
