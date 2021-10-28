@@ -1,8 +1,8 @@
 import requests
 import datetime
-import api
+#import api
 
-API_KEY=api.get_api()
+API_KEY="31584b1d32ccd495ad40ce91ca0978da"
 CITY_ID="1566083"
 UNIT_KEY="Metric"
 url=f"http://api.openweathermap.org/data/2.5/weather?id={CITY_ID}&appid={API_KEY}&units={UNIT_KEY}"
