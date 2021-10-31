@@ -156,8 +156,6 @@ assign [title="Microsoft Teams$"] $ws4
 assign [title="WPS PDF$"] $ws3
 assign [title="Discord$"] $ws4
 assign [title="Notion Desktop"] $ws8
-for_window [class="vim"] move to workspace $ws2
-for_window [title="calcurse"] move to workspace $ws8
 
 
 # Default workspace layout  
@@ -167,6 +165,9 @@ for_window [workspace=$ws2] 																			floating enable
 for_window [workspace=$ws5] 																			layout tabbed
 for_window [workspace=$ws1] 																			layout tabbed
 for_window [class=".*"] 																			    title_format "<span alpha='1'>%title</span>"
+for_window [class="vim"]                                          move to workspace $ws2
+for_window [title="calcurse"]                                     move to workspace $ws8
+for_window [class="alacritty"]                                    border pixel 10
 
 # System controls
 bindsym --release $mod+x 																					exec slock 
