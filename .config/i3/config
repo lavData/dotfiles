@@ -13,8 +13,8 @@ set $red                                                                        
 # No title
 new_window none
 #jjjjjjj
-hide_edge_borders both
-default_border none
+#hide_edge_borders both
+#default_border none
 
 # Disable mouse focus
 focus_follows_mouse no
@@ -167,7 +167,7 @@ for_window [workspace=$ws1] 																			layout tabbed
 for_window [class=".*"] 																			    title_format "<span alpha='1'>%title</span>"
 for_window [class="vim"]                                          move to workspace $ws2
 for_window [title="calcurse"]                                     move to workspace $ws8
-for_window [class="alacritty"]                                    border pixel 10
+for_window [class=".*"]                                           border pixel 5
 
 # System controls
 bindsym --release $mod+x 																					exec slock 
@@ -189,10 +189,10 @@ bindsym $mod+Shift+e 																							exec i3-msg exit
 
 
 # Disable window titlebars entirely
-for_window [class="^.*"] border pixel 2
+#for_window [class="^.*"] border pixel 2
 
 # Set inner/outer gaps
-gaps inner 25
+gaps inner 15
 #gaps outer 15
 
 # Additionally, you can issue commands with the following syntax. This is useful to bind keys to changing the gap size.
@@ -281,10 +281,10 @@ set_from_resource $fg i3-gaps.color7 #f0f0f0
 set_from_resource $bg i3-gaps.color2 #f0f0f0
 
 # class                 border  backgr. text indicator child_border
-#client.focused          $bg     $bg     $fg  $bg       $bg
+client.focused          $bg     $bg     $fg  $bg       $bg
 #client.focused_inactive $bg     $bg     $fg  $bg       $bg
 #client.unfocused        $bg     $bg     $fg  $bg       $bg
-#client.urgent           $bg     $bg     $fg  $bg       $bg
+client.urgent           $bg     $bg     $fg  $bg       $bg
 #client.placeholder      $bg     $bg     $fg  $bg       $bg
 
 client.background       $bg
@@ -357,7 +357,7 @@ exec xset r rate 200 80
 #move workspace to output
 bindsym $mod+Shift+greater move workspace to output right
 bindsym $mod+Shift+less move workspace to output left
-for_window [class=".*"] border pixel 0
+#for_window [class=".*"] border pixel 0
 exec_always --no-startup-id ~/.config/polybar/launch.sh --cuts
 
 exec --no-startup-id i3-msg "workspace $ws1"

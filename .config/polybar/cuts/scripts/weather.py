@@ -26,13 +26,11 @@ try:
     else:
         which = ''
     sys_res=f"{which} {main_weather} {itemp}: {temp}°C  {icloud}: {cloud}%  {ihumidity}: {humidity}%"
-except ConnectionError as ce:
+except:
     print("Connect to a network!")
-    
+    exit()    
 
 
 
 
-print(sys_res)
-print(sys_res)
 print(sys_res)
