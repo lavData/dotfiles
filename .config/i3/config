@@ -152,6 +152,7 @@ assign [class="TelegramDesktop"] $w8
 assign [class="zoom"] $ws4
 assign [class="wpspdf"] $ws6
 assign [class="calibre"] $ws5
+assign [title="Google Chrome$"] $ws10
 assign [title="Microsoft Teams$"] $ws4
 assign [title="WPS PDF$"] $ws3
 assign [title="Discord$"] $ws4
@@ -167,7 +168,8 @@ for_window [workspace=$ws1] 																			layout tabbed
 for_window [class=".*"] 																			    title_format "<span alpha='1'>%title</span>"
 for_window [class="vim"]                                          move to workspace $ws2
 for_window [title="calcurse"]                                     move to workspace $ws8
-for_window [class=".*"]                                           border pixel 5
+#for_window [class=".*"]                                           border pixel 5
+for_window [class="Alacritty"]                                    border pixel 5
 
 # System controls
 bindsym --release $mod+x 																					exec slock 
