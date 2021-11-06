@@ -388,7 +388,7 @@ nnoremap <C-H> <C-W><C-H>
 nnoremap <C-K> <C-W><C-K>
 
 " Navigation
-map e A
+nmap e A
 
 
 "Floatterm re nnoremap
