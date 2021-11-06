@@ -387,7 +387,14 @@ nnoremap <C-J> <C-W><C-J>
 nnoremap <C-H> <C-W><C-H>
 nnoremap <C-K> <C-W><C-K>
 
+" Navigation
+map e A
+
+
 "Floatterm re nnoremap
+
+
+
 "
 
 let g:floaterm_keymap_new    = '<F7>'
@@ -429,13 +436,6 @@ let g:jedi#force_py_version = 3
 let g:indent_guides_enable_on_vim_startup = 1
 
 "Neovide
-let g:neovide_cursor_vfx_particle_curl=1.0
-let g:neovide_cursor_vfx_particle_phase=1.5
-let g:neovide_cursor_vfx_particle_speed=10.0
-let g:neovide_cursor_vfx_particle_density=7.0
-let g:neovide_cursor_vfx_particle_lifetime=1.2
-let g:neovide_cursor_vfx_opacity=200.0
-let g:neovide_cursor_vfx_mode = "wireframe"
 
 "colorscheme nord
 " for transparent background
@@ -459,7 +459,7 @@ highlight clear LineNr
 highlight clear SignColumn
 highlight clear StatusLine
 
-
+# thereis some thing 
 " Change Color when entering Insert Mode
 autocmd InsertEnter * set nocursorline
 
