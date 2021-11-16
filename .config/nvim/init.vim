@@ -459,7 +459,8 @@ highlight clear LineNr
 highlight clear SignColumn
 highlight clear StatusLine
 
-# thereis some thing 
+
+" thereis some thing 
 " Change Color when entering Insert Mode
 autocmd InsertEnter * set nocursorline
 
